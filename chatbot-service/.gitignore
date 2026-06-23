@@ -1,0 +1,30 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+data/vectorstore/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

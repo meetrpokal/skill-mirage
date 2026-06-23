@@ -1,0 +1,16 @@
+name,provider,institution,skill_cluster,duration,hours_per_week,total_hours,cost,modality,centre_address,city,url,level
+Business Analytics,NPTEL,IIT Kharagpur,business analytics | data analysis | Excel | Tableau,8 weeks,6,48,Free,online,,,https://nptel.ac.in/courses/110105089,beginner
+Cloud Computing,NPTEL,IIT Kharagpur,cloud | AWS | Azure | GCP,8 weeks,6,48,Free,online,,,https://nptel.ac.in/courses/106105167,intermediate
+Cyber Security,NPTEL,IIT Kanpur,cybersecurity | network security | ethical hacking,8 weeks,6,48,Free,online,,,https://nptel.ac.in/courses/106104220,intermediate
+Data Analytics with Python,NPTEL,IIT Madras,Python | data analysis | analytics,8 weeks,6,48,Free,online,,,https://nptel.ac.in/courses/106106212,beginner
+Data Science for Engineers,NPTEL,IIT Madras,data analysis | Python | statistics,8 weeks,6,48,Free,online,,,https://nptel.ac.in/courses/106106179,beginner
+Database Management Systems,NPTEL,IIT Kharagpur,SQL | database | data management,8 weeks,8,64,Free,online,,,https://nptel.ac.in/courses/106105175,intermediate
+Deep Learning,NPTEL,IIT Ropar,deep learning | AI | neural network | Python,12 weeks,8,96,Free,online,,,https://nptel.ac.in/courses/106106184,advanced
+Introduction to Machine Learning,NPTEL,IIT Kharagpur,machine learning | Python | AI,12 weeks,8,96,Free,online,,,https://nptel.ac.in/courses/106105152,intermediate
+Data Entry and Computer Operator,PMKVY,PMKVY Jaipur Centre,data entry | Excel | typing,4 weeks,8,32,Free,in-person,"PMKVY Centre, MI Road, Jaipur",Jaipur,https://www.pmkvyofficial.org/,beginner
+Digital Marketing with AI Tools,PMKVY,PMKVY Nagpur Centre,digital marketing | AI | content creation,3 weeks,6,18,Free,in-person,"PMKVY Centre, Wardha Road, Nagpur",Nagpur,https://www.pmkvyofficial.org/,beginner
+AI Fundamentals,SWAYAM,IIT Bombay,AI | machine learning | GenAI | LLM,6 weeks,4,24,Free,online,,,https://swayam.gov.in/nd2_iitb20_cs01/,beginner
+AI for Everyone,SWAYAM,IIT Delhi,AI | ChatGPT | automation,4 weeks,4,16,Free,online,,,https://swayam.gov.in/nd2_cec20_cs16/,beginner
+Digital Marketing Fundamentals,SWAYAM,Savitribai Phule Pune University,digital marketing | SEO | social media,6 weeks,4,24,Free,online,,,https://swayam.gov.in/nd2_ugc19_hs22/,beginner
+Python for Everybody,SWAYAM,University of Michigan (translated),Python | programming | data analysis,10 weeks,4,40,Free,online,,,https://swayam.gov.in/nd2_ugc20_cs06/,beginner
+Web Development with React,SWAYAM,IGNOU,React | JavaScript | web development | HTML | CSS,8 weeks,6,48,Free,online,,,https://swayam.gov.in/nd2_ignou20_cs01/,beginner

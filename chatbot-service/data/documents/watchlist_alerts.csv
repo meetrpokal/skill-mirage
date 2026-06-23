@@ -1,0 +1,7 @@
+canonical_role,city,decline_history,consecutive_decline_months,affected_workers,severity,is_active,triggered_at
+Accountant,Lucknow,"[{""month"": ""Jan 2026"", ""declinePercent"": 8}, {""month"": ""Feb 2026"", ""declinePercent"": 11}, {""month"": ""Mar 2026"", ""declinePercent"": 10}]",3,450,warning,t,2026-03-06 03:15:31.943133+00
+Content Moderator,Bangalore,"[{""month"": ""Feb 2026"", ""declinePercent"": 10}, {""month"": ""Mar 2026"", ""declinePercent"": 13}]",2,600,warning,t,2026-03-06 03:15:31.942901+00
+Customer Support,Indore,"[{""month"": ""Jan 2026"", ""declinePercent"": 10}, {""month"": ""Feb 2026"", ""declinePercent"": 12}, {""month"": ""Mar 2026"", ""declinePercent"": 14}]",3,950,critical,t,2026-03-06 03:15:31.942662+00
+BPO Voice Support,Nagpur,"[{""month"": ""Feb 2026"", ""declinePercent"": 11}, {""month"": ""Mar 2026"", ""declinePercent"": 16}]",2,1200,warning,t,2026-03-06 03:15:31.942423+00
+Data Entry Operator,Jaipur,"[{""month"": ""Jan 2026"", ""declinePercent"": 10}, {""month"": ""Feb 2026"", ""declinePercent"": 13}, {""month"": ""Mar 2026"", ""declinePercent"": 15}]",3,1800,critical,t,2026-03-06 03:15:31.942167+00
+BPO Voice Support,Pune,"[{""month"": ""Jan 2026"", ""declinePercent"": 12}, {""month"": ""Feb 2026"", ""declinePercent"": 14}, {""month"": ""Mar 2026"", ""declinePercent"": 18}]",3,3200,critical,t,2026-03-06 03:15:31.941839+00

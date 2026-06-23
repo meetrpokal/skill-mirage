@@ -1,0 +1,306 @@
+/* ========= Worker Page ========= */
+.worker-page {
+  padding-top: 6rem;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.worker-page__canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.worker-page__inner {
+  position: relative;
+  z-index: 1;
+}
+
+.worker-hero {
+  text-align: center;
+  padding: 2rem 0 3rem;
+}
+
+.worker-hero h1 {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+}
+
+.worker-hero p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.worker-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+  perspective: 1000px;
+}
+
+@media (max-width: 900px) {
+  .worker-layout { grid-template-columns: 1fr; }
+}
+
+/* ========= Form ========= */
+.worker-form {
+  padding: 2.5rem;
+  border-radius: var(--radius-lg);
+  will-change: transform;
+  transition: border-color 0.3s, box-shadow 0.4s;
+}
+
+.worker-form:hover {
+  border-color: rgba(255, 61, 90, 0.15);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.worker-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.form-group label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius);
+  font-family: inherit;
+  font-size: 0.9rem;
+  transition: border-color 0.3s, box-shadow 0.3s, transform 0.2s;
+  resize: vertical;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 20px rgba(255, 61, 90, 0.12);
+  transform: translateY(-1px);
+}
+
+.form-error {
+  color: var(--red);
+  font-size: 0.8rem;
+}
+
+/* ========= Result ========= */
+.worker-result {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* ========= Gauge ========= */
+.risk-gauge {
+  padding: 2.5rem;
+  border-radius: var(--radius-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: border-color 0.3s, box-shadow 0.4s;
+}
+
+.risk-gauge:hover {
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+}
+
+.gauge-ring {
+  position: relative;
+  width: 160px;
+  height: 160px;
+}
+
+.gauge-ring svg {
+  width: 100%;
+  height: 100%;
+}
+
+.gauge-center {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.gauge-score {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.gauge-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.gauge-sub {
+  margin-top: 0.8rem;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  letter-spacing: 1px;
+}
+
+/* ========= Result Cards ========= */
+.result-card {
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  transition: border-color 0.3s, box-shadow 0.4s, transform 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.result-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at center, var(--accent-glow) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.4s;
+  pointer-events: none;
+}
+
+.result-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 61, 90, 0.15);
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+}
+
+.result-card:hover::before {
+  opacity: 0.06;
+}
+
+.result-card h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.skill-group {
+  margin-bottom: 0.8rem;
+}
+
+.skill-group__label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.skill-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.skill-tag {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid;
+  border-radius: var(--radius-full);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.skill-tag:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 12px currentColor;
+}
+
+.signals-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.signals-list li {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  padding-left: 1.2rem;
+  position: relative;
+}
+
+.signals-list li::before {
+  content: 'bolt';
+  font-family: 'Material Symbols Outlined';
+  font-size: 0.9rem;
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+}
+
+/* ========= Reskilling ========= */
+.reskilling-target {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+.course-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.course-item {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.course-item__platform {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--accent);
+  background: rgba(255, 61, 90, 0.1);
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-full);
+  white-space: nowrap;
+}
+
+.course-item__name {
+  font-size: 0.85rem;
+  color: var(--text-primary);
+}
+
+.reskilling-weeks {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}

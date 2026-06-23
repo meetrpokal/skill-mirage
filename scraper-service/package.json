@@ -1,0 +1,12 @@
+{
+  "name": "scraper-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1",
+    "ioredis": "^5.3.2"
+  }
+}

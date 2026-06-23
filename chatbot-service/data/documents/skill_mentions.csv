@@ -1,0 +1,1481 @@
+skill,city,sector,mention_count,week_over_week_change,month_over_month_change,direction,gov_training_seats,gov_courses,has_gov_course,snapshot_date
+Computer Vision,Mysuru,All,500,21,76,rising,0,[],f,2026-03-06 03:15:31.596464+00
+Data Entry,Surat,All,500,-23,-78,declining,0,[],f,2026-03-06 03:15:31.537794+00
+Product Management,Ahmedabad,All,500,12,47,rising,0,[],f,2026-03-06 03:15:31.444494+00
+Dreamweaver,Nagpur,All,499,-3,-18,declining,0,[],f,2026-03-06 03:15:31.46043+00
+Hardware Troubleshooting,Mumbai,All,499,-5,-27,declining,0,[],f,2026-03-06 03:15:31.378479+00
+Prompt Engineering,Mangaluru,All,499,38,143,rising,0,[],f,2026-03-06 03:15:31.658595+00
+Machine Learning,Patna,All,499,30,115,rising,4311,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.543644+00
+Dreamweaver,Guwahati,All,499,-8,-23,declining,0,[],f,2026-03-06 03:15:31.710893+00
+DevOps/CI-CD,Agra,All,498,22,72,rising,2897,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.712814+00
+React/Next.js,Jaipur,All,498,18,63,rising,1294,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.483141+00
+Traditional SEO,Coimbatore,All,498,-15,-40,declining,0,[],f,2026-03-06 03:15:31.47825+00
+Prompt Engineering,Chandigarh,All,498,47,152,rising,0,[],f,2026-03-06 03:15:31.553169+00
+Natural Language Processing,Bhopal,All,498,38,126,rising,0,[],f,2026-03-06 03:15:31.514443+00
+Print Media Design,Surat,All,498,-13,-45,declining,0,[],f,2026-03-06 03:15:31.540036+00
+LLM Fine-Tuning,Ranchi,All,497,30,108,rising,0,[],f,2026-03-06 03:15:31.638837+00
+Blockchain,Bangalore,All,496,9,34,rising,0,[],f,2026-03-06 03:15:31.394803+00
+Tally Accounting,Jabalpur,All,496,-9,-39,declining,0,[],f,2026-03-06 03:15:31.73832+00
+VB.NET,Madurai,All,495,-8,-35,declining,0,[],f,2026-03-06 03:15:31.615467+00
+Desktop Publishing,Bhopal,All,495,-13,-55,declining,0,[],f,2026-03-06 03:15:31.519378+00
+Desktop Publishing,Raipur,All,493,-19,-61,declining,0,[],f,2026-03-06 03:15:31.69832+00
+Shorthand,Hyderabad,All,493,-34,-109,declining,0,[],f,2026-03-06 03:15:31.409365+00
+Manual Testing,Jodhpur,All,493,-23,-68,declining,0,[],f,2026-03-06 03:15:31.632342+00
+Network Cabling,Raipur,All,492,-12,-29,declining,0,[],f,2026-03-06 03:15:31.699632+00
+Basic Excel,Mysuru,All,492,-20,-57,declining,0,[],f,2026-03-06 03:15:31.600955+00
+Dreamweaver,Delhi,All,492,-3,-18,declining,0,[],f,2026-03-06 03:15:31.389574+00
+Cloud Computing (AWS),Dehradun,All,492,26,89,rising,2427,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.648743+00
+Shorthand,Tiruchirappalli,All,491,-27,-102,declining,0,[],f,2026-03-06 03:15:31.689408+00
+Basic Excel,Chennai,All,491,-19,-56,declining,0,[],f,2026-03-06 03:15:31.416086+00
+Product Management,Delhi,All,491,16,51,rising,0,[],f,2026-03-06 03:15:31.383911+00
+Prompt Engineering,Varanasi,All,491,39,144,rising,0,[],f,2026-03-06 03:15:31.721403+00
+Cold Calling,Kochi,All,491,-20,-70,declining,0,[],f,2026-03-06 03:15:31.570196+00
+Hardware Troubleshooting,Indore,All,490,-13,-35,declining,0,[],f,2026-03-06 03:15:31.469658+00
+Dreamweaver,Vadodara,All,490,-8,-23,declining,0,[],f,2026-03-06 03:15:31.532008+00
+Hardware Troubleshooting,Bhopal,All,489,-7,-29,declining,0,[],f,2026-03-06 03:15:31.520524+00
+Data Entry,Rajkot,All,489,-19,-74,declining,0,[],f,2026-03-06 03:15:31.621681+00
+Prompt Engineering,Guwahati,All,489,39,144,rising,0,[],f,2026-03-06 03:15:31.700574+00
+Cold Calling,Chennai,All,488,-18,-68,declining,0,[],f,2026-03-06 03:15:31.416789+00
+Manual Testing,Lucknow,All,488,-23,-68,declining,0,[],f,2026-03-06 03:15:31.507066+00
+Network Cabling,Tiruchirappalli,All,488,-10,-27,declining,0,[],f,2026-03-06 03:15:31.689123+00
+AI-assisted Content Moderation,Bangalore,All,487,75,275,rising,0,[],f,2026-03-06 03:15:31.392511+00
+Traditional SEO,Dehradun,All,487,-15,-40,declining,0,[],f,2026-03-06 03:15:31.655683+00
+AI Quality Review,Tiruchirappalli,All,486,43,138,rising,0,[],f,2026-03-06 03:15:31.679841+00
+Data Engineering,Thiruvananthapuram,All,486,23,83,rising,3407,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.58735+00
+UI/UX Design,Rajkot,All,486,12,50,rising,2691,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.620128+00
+Python for Data,Kochi,All,486,31,104,rising,3750,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.563943+00
+Print Media Design,Nashik,All,486,-12,-44,declining,0,[],f,2026-03-06 03:15:31.498904+00
+React/Next.js,Mysuru,All,486,13,58,rising,2761,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.596956+00
+VB.NET,Kolkata,All,486,-9,-36,declining,0,[],f,2026-03-06 03:15:31.429816+00
+PHP Development,Nashik,All,486,-12,-47,declining,0,[],f,2026-03-06 03:15:31.497643+00
+Manual Bookkeeping,Agra,All,486,-21,-61,declining,0,[],f,2026-03-06 03:15:31.71839+00
+Product Management,Siliguri,All,485,9,44,rising,0,[],f,2026-03-06 03:15:31.746744+00
+React/Next.js,Indore,All,485,16,61,rising,1452,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.4627+00
+Product Management,Jabalpur,All,484,11,46,rising,0,[],f,2026-03-06 03:15:31.736173+00
+Cybersecurity,Coimbatore,All,484,32,100,rising,4597,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.473079+00
+Kubernetes/Docker,Raipur,All,484,16,64,rising,0,[],f,2026-03-06 03:15:31.693619+00
+AI Quality Review,Chandigarh,All,484,42,137,rising,0,[],f,2026-03-06 03:15:31.553405+00
+Hardware Troubleshooting,Agra,All,483,-14,-36,declining,0,[],f,2026-03-06 03:15:31.720133+00
+Traditional SEO,Raipur,All,483,-5,-30,declining,0,[],f,2026-03-06 03:15:31.697673+00
+Copy Typing,Visakhapatnam,All,483,-27,-97,declining,0,[],f,2026-03-06 03:15:31.580715+00
+Tally Accounting,Agra,All,482,-16,-46,declining,0,[],f,2026-03-06 03:15:31.717369+00
+Tally Accounting,Ranchi,All,482,-16,-46,declining,0,[],f,2026-03-06 03:15:31.643814+00
+Basic Excel,Siliguri,All,482,-14,-51,declining,0,[],f,2026-03-06 03:15:31.748554+00
+Legacy COBOL,Pune,All,482,-8,-28,declining,0,[],f,2026-03-06 03:15:31.438984+00
+UI/UX Design,Visakhapatnam,All,482,20,58,rising,2601,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.577643+00
+Print Media Design,Agra,All,482,-9,-41,declining,0,[],f,2026-03-06 03:15:31.718894+00
+Tableau/Power BI,Delhi,All,481,13,53,rising,1732,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.38343+00
+UI/UX Design,Lucknow,All,481,10,48,rising,696,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.505321+00
+Copy Typing,Jaipur,All,481,-32,-102,declining,0,[],f,2026-03-06 03:15:31.48804+00
+UI/UX Design,Indore,All,481,19,57,rising,3858,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.464488+00
+Copy Typing,Pune,All,481,-27,-97,declining,0,[],f,2026-03-06 03:15:31.437281+00
+Traditional SEO,Chandigarh,All,480,-10,-35,declining,0,[],f,2026-03-06 03:15:31.560731+00
+Prompt Engineering,Bangalore,All,480,41,146,rising,0,[],f,2026-03-06 03:15:31.389828+00
+Legacy COBOL,Guwahati,All,480,-12,-32,declining,0,[],f,2026-03-06 03:15:31.709655+00
+AI-assisted Content Moderation,Patna,All,480,79,279,rising,0,[],f,2026-03-06 03:15:31.54526+00
+Voice Support,Rajkot,All,479,-35,-112,declining,0,[],f,2026-03-06 03:15:31.621429+00
+Basic Excel,Tiruchirappalli,All,479,-15,-52,declining,0,[],f,2026-03-06 03:15:31.685642+00
+Telemarketing,Coimbatore,All,479,-25,-87,declining,0,[],f,2026-03-06 03:15:31.479054+00
+Blockchain,Vadodara,All,478,9,34,rising,0,[],f,2026-03-06 03:15:31.526563+00
+Legacy COBOL,Delhi,All,477,-8,-28,declining,0,[],f,2026-03-06 03:15:31.388349+00
+Blockchain,Visakhapatnam,All,477,13,38,rising,0,[],f,2026-03-06 03:15:31.578681+00
+Desktop Publishing,Coimbatore,All,477,-18,-60,declining,0,[],f,2026-03-06 03:15:31.478812+00
+PHP Development,Bhopal,All,477,-13,-48,declining,0,[],f,2026-03-06 03:15:31.517884+00
+Natural Language Processing,Kochi,All,477,30,118,rising,0,[],f,2026-03-06 03:15:31.566391+00
+Desktop Publishing,Mysuru,All,476,-20,-62,declining,0,[],f,2026-03-06 03:15:31.603123+00
+Basic Excel,Bhopal,All,476,-16,-53,declining,0,[],f,2026-03-06 03:15:31.517397+00
+Print Media Design,Tiruchirappalli,All,475,-15,-47,declining,0,[],f,2026-03-06 03:15:31.68748+00
+Shorthand,Thiruvananthapuram,All,475,-33,-108,declining,0,[],f,2026-03-06 03:15:31.594182+00
+PHP Development,Jodhpur,All,475,-16,-51,declining,0,[],f,2026-03-06 03:15:31.633116+00
+Telemarketing,Pune,All,475,-28,-90,declining,0,[],f,2026-03-06 03:15:31.43849+00
+AI-assisted Content Moderation,Visakhapatnam,All,474,77,277,rising,0,[],f,2026-03-06 03:15:31.576318+00
+Manual Testing,Kolkata,All,474,-16,-61,declining,0,[],f,2026-03-06 03:15:31.425884+00
+Product Management,Kochi,All,474,13,48,rising,0,[],f,2026-03-06 03:15:31.567632+00
+LLM Fine-Tuning,Raipur,All,474,27,105,rising,0,[],f,2026-03-06 03:15:31.691472+00
+AI-assisted Content Moderation,Chennai,All,474,77,277,rising,0,[],f,2026-03-06 03:15:31.412749+00
+Data Engineering,Rajkot,All,474,20,80,rising,608,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.619352+00
+DevOps/CI-CD,Siliguri,All,473,23,73,rising,1289,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.744531+00
+Copy Typing,Agra,All,473,-25,-95,declining,0,[],f,2026-03-06 03:15:31.718134+00
+Tally Accounting,Patna,All,473,-16,-46,declining,0,[],f,2026-03-06 03:15:31.549184+00
+AI Quality Review,Ahmedabad,All,472,35,130,rising,0,[],f,2026-03-06 03:15:31.440645+00
+Machine Learning,Varanasi,All,472,31,116,rising,3476,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.722438+00
+VB.NET,Patna,All,471,-6,-33,declining,0,[],f,2026-03-06 03:15:31.552669+00
+Machine Learning,Nashik,All,471,34,119,rising,3974,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.492269+00
+DevOps/CI-CD,Tiruchirappalli,All,471,17,67,rising,4665,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.681537+00
+Shorthand,Nashik,All,471,-32,-107,declining,0,[],f,2026-03-06 03:15:31.500623+00
+Desktop Publishing,Hubli,All,471,-14,-56,declining,0,[],f,2026-03-06 03:15:31.677313+00
+Computer Vision,Surat,All,470,20,75,rising,0,[],f,2026-03-06 03:15:31.533814+00
+LLM Fine-Tuning,Mangaluru,All,470,33,111,rising,0,[],f,2026-03-06 03:15:31.659977+00
+AI Quality Review,Lucknow,All,469,40,135,rising,0,[],f,2026-03-06 03:15:31.501625+00
+VB.NET,Varanasi,All,468,-11,-38,declining,0,[],f,2026-03-06 03:15:31.731372+00
+Filing/Clerical,Jabalpur,All,468,-16,-63,declining,0,[],f,2026-03-06 03:15:31.74073+00
+Copy Typing,Siliguri,All,468,-24,-94,declining,0,[],f,2026-03-06 03:15:31.749586+00
+Computer Vision,Jaipur,All,467,26,81,rising,0,[],f,2026-03-06 03:15:31.482622+00
+Filing/Clerical,Madurai,All,467,-22,-69,declining,0,[],f,2026-03-06 03:15:31.614218+00
+Hardware Troubleshooting,Ahmedabad,All,467,-10,-32,declining,0,[],f,2026-03-06 03:15:31.44927+00
+Hardware Troubleshooting,Visakhapatnam,All,466,-9,-31,declining,0,[],f,2026-03-06 03:15:31.582831+00
+Machine Learning,Hyderabad,All,466,36,121,rising,616,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.401176+00
+Cloud Computing (AWS),Kochi,All,466,27,90,rising,4980,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.56433+00
+Agile/Scrum,Hubli,All,465,7,37,rising,1465,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.673636+00
+Dreamweaver,Kochi,All,464,-2,-17,declining,0,[],f,2026-03-06 03:15:31.573542+00
+Blockchain,Hyderabad,All,464,13,38,rising,0,[],f,2026-03-06 03:15:31.404852+00
+Copy Typing,Bhopal,All,464,-30,-100,declining,0,[],f,2026-03-06 03:15:31.518384+00
+Tableau/Power BI,Agra,All,464,17,57,rising,1023,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.714611+00
+Voice Support,Siliguri,All,463,-27,-104,declining,0,[],f,2026-03-06 03:15:31.747764+00
+Machine Learning,Mangaluru,All,463,38,123,rising,3189,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.659705+00
+Voice Support,Dehradun,All,463,-33,-110,declining,0,[],f,2026-03-06 03:15:31.653224+00
+Traditional SEO,Visakhapatnam,All,463,-7,-32,declining,0,[],f,2026-03-06 03:15:31.581207+00
+Machine Learning,Dehradun,All,462,34,119,rising,3354,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.649051+00
+Desktop Publishing,Chandigarh,All,462,-20,-62,declining,0,[],f,2026-03-06 03:15:31.56122+00
+Desktop Publishing,Bangalore,All,462,-21,-63,declining,0,[],f,2026-03-06 03:15:31.397798+00
+Product Management,Chandigarh,All,462,10,45,rising,0,[],f,2026-03-06 03:15:31.557368+00
+Manual Testing,Bhopal,All,462,-13,-58,declining,0,[],f,2026-03-06 03:15:31.517144+00
+DevOps/CI-CD,Mumbai,All,461,15,65,rising,4735,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.370665+00
+Data Entry,Coimbatore,All,461,-20,-75,declining,0,[],f,2026-03-06 03:15:31.476179+00
+PHP Development,Lucknow,All,460,-16,-51,declining,0,[],f,2026-03-06 03:15:31.507807+00
+AI-assisted Content Moderation,Kolkata,All,460,80,280,rising,0,[],f,2026-03-06 03:15:31.422765+00
+Filing/Clerical,Mangaluru,All,460,-15,-62,declining,0,[],f,2026-03-06 03:15:31.667308+00
+Basic Excel,Madurai,All,460,-10,-47,declining,0,[],f,2026-03-06 03:15:31.611679+00
+PHP Development,Agra,All,459,-9,-44,declining,0,[],f,2026-03-06 03:15:31.717615+00
+Cybersecurity,Surat,All,459,28,96,rising,3273,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.534575+00
+Data Entry,Madurai,All,458,-17,-72,declining,0,[],f,2026-03-06 03:15:31.611154+00
+Filing/Clerical,Coimbatore,All,458,-15,-62,declining,0,[],f,2026-03-06 03:15:31.479307+00
+Basic Excel,Dehradun,All,458,-12,-49,declining,0,[],f,2026-03-06 03:15:31.65411+00
+React/Next.js,Varanasi,All,458,14,59,rising,1146,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.723471+00
+Natural Language Processing,Guwahati,All,457,40,128,rising,0,[],f,2026-03-06 03:15:31.703479+00
+Shorthand,Guwahati,All,457,-25,-100,declining,0,[],f,2026-03-06 03:15:31.710414+00
+DevOps/CI-CD,Nashik,All,457,16,66,rising,3065,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.493028+00
+Cybersecurity,Chennai,All,457,28,96,rising,1196,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.412503+00
+Dreamweaver,Jaipur,All,457,-6,-21,declining,0,[],f,2026-03-06 03:15:31.49102+00
+AI Quality Review,Thiruvananthapuram,All,456,41,136,rising,0,[],f,2026-03-06 03:15:31.584471+00
+Basic Excel,Mangaluru,All,456,-14,-51,declining,0,[],f,2026-03-06 03:15:31.66475+00
+Network Cabling,Hyderabad,All,456,-3,-20,declining,0,[],f,2026-03-06 03:15:31.409092+00
+Data Entry,Guwahati,All,456,-25,-80,declining,0,[],f,2026-03-06 03:15:31.70605+00
+DevOps/CI-CD,Hubli,All,455,24,74,rising,460,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.670848+00
+Copy Typing,Mangaluru,All,455,-24,-94,declining,0,[],f,2026-03-06 03:15:31.665778+00
+Traditional SEO,Jabalpur,All,453,-14,-39,declining,0,[],f,2026-03-06 03:15:31.739652+00
+AI-assisted Content Moderation,Ahmedabad,All,453,75,275,rising,0,[],f,2026-03-06 03:15:31.443001+00
+Manual Testing,Visakhapatnam,All,453,-14,-59,declining,0,[],f,2026-03-06 03:15:31.579444+00
+Shorthand,Nagpur,All,453,-25,-100,declining,0,[],f,2026-03-06 03:15:31.459897+00
+Computer Vision,Mumbai,All,453,21,76,rising,0,[],f,2026-03-06 03:15:31.370398+00
+Telemarketing,Nagpur,All,452,-30,-92,declining,0,[],f,2026-03-06 03:15:31.458488+00
+Cloud Computing (AWS),Kolkata,All,452,29,92,rising,4677,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.421036+00
+LLM Fine-Tuning,Siliguri,All,452,27,105,rising,0,[],f,2026-03-06 03:15:31.744033+00
+Computer Vision,Kochi,All,451,18,73,rising,0,[],f,2026-03-06 03:15:31.565095+00
+Filing/Clerical,Agra,All,451,-16,-63,declining,0,[],f,2026-03-06 03:15:31.719642+00
+Traditional SEO,Chennai,All,451,-7,-32,declining,0,[],f,2026-03-06 03:15:31.417554+00
+Kubernetes/Docker,Visakhapatnam,All,450,21,69,rising,0,[],f,2026-03-06 03:15:31.577104+00
+UI/UX Design,Nagpur,All,450,17,55,rising,3107,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.45433+00
+Network Cabling,Madurai,All,450,-10,-27,declining,0,[],f,2026-03-06 03:15:31.614965+00
+Traditional SEO,Delhi,All,450,-14,-39,declining,0,[],f,2026-03-06 03:15:31.387106+00
+Python for Data,Coimbatore,All,449,29,102,rising,2869,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.471378+00
+Product Management,Mangaluru,All,449,17,52,rising,0,[],f,2026-03-06 03:15:31.662938+00
+Telemarketing,Indore,All,449,-25,-87,declining,0,[],f,2026-03-06 03:15:31.468923+00
+AI-assisted Content Moderation,Raipur,All,448,75,275,rising,0,[],f,2026-03-06 03:15:31.692827+00
+Cold Calling,Nagpur,All,448,-25,-75,declining,0,[],f,2026-03-06 03:15:31.457032+00
+Legacy COBOL,Visakhapatnam,All,448,-13,-33,declining,0,[],f,2026-03-06 03:15:31.582587+00
+Kubernetes/Docker,Dehradun,All,448,20,68,rising,0,[],f,2026-03-06 03:15:31.651425+00
+Telemarketing,Bangalore,All,448,-21,-83,declining,0,[],f,2026-03-06 03:15:31.398063+00
+UI/UX Design,Varanasi,All,448,19,57,rising,146,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.725503+00
+Python for Data,Siliguri,All,448,25,98,rising,642,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.743243+00
+LLM Fine-Tuning,Bhopal,All,447,32,110,rising,0,[],f,2026-03-06 03:15:31.512947+00
+Telemarketing,Hubli,All,447,-24,-86,declining,0,[],f,2026-03-06 03:15:31.677582+00
+Manual Testing,Surat,All,447,-17,-62,declining,0,[],f,2026-03-06 03:15:31.538052+00
+Manual Testing,Kochi,All,446,-13,-58,declining,0,[],f,2026-03-06 03:15:31.569141+00
+Data Entry,Mumbai,All,446,-18,-73,declining,0,[],f,2026-03-06 03:15:31.374439+00
+Tally Accounting,Dehradun,All,446,-14,-44,declining,0,[],f,2026-03-06 03:15:31.654365+00
+Manual Bookkeeping,Tiruchirappalli,All,445,-16,-56,declining,0,[],f,2026-03-06 03:15:31.686958+00
+Voice Support,Jaipur,All,445,-32,-109,declining,0,[],f,2026-03-06 03:15:31.486303+00
+Cybersecurity,Tiruchirappalli,All,445,26,94,rising,3452,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.682043+00
+PHP Development,Vadodara,All,444,-11,-46,declining,0,[],f,2026-03-06 03:15:31.528079+00
+Tally Accounting,Rajkot,All,444,-16,-46,declining,0,[],f,2026-03-06 03:15:31.62248+00
+Voice Support,Varanasi,All,444,-31,-108,declining,0,[],f,2026-03-06 03:15:31.726808+00
+Legacy COBOL,Tiruchirappalli,All,444,-12,-32,declining,0,[],f,2026-03-06 03:15:31.688497+00
+Natural Language Processing,Thiruvananthapuram,All,444,35,123,rising,0,[],f,2026-03-06 03:15:31.587092+00
+Cold Calling,Delhi,All,444,-17,-67,declining,0,[],f,2026-03-06 03:15:31.386388+00
+Tally Accounting,Raipur,All,444,-12,-42,declining,0,[],f,2026-03-06 03:15:31.696424+00
+DevOps/CI-CD,Vadodara,All,444,16,66,rising,1902,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.523481+00
+Hardware Troubleshooting,Nashik,All,444,-12,-34,declining,0,[],f,2026-03-06 03:15:31.50011+00
+Copy Typing,Nashik,All,444,-33,-103,declining,0,[],f,2026-03-06 03:15:31.498141+00
+Computer Vision,Kolkata,All,443,23,78,rising,0,[],f,2026-03-06 03:15:31.421761+00
+Legacy COBOL,Madurai,All,442,-11,-31,declining,0,[],f,2026-03-06 03:15:31.614461+00
+AI-assisted Content Moderation,Guwahati,All,442,80,280,rising,0,[],f,2026-03-06 03:15:31.703224+00
+Tableau/Power BI,Jaipur,All,442,12,52,rising,4961,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.484652+00
+Print Media Design,Visakhapatnam,All,441,-11,-43,declining,0,[],f,2026-03-06 03:15:31.581462+00
+PHP Development,Dehradun,All,441,-18,-53,declining,0,[],f,2026-03-06 03:15:31.654617+00
+Filing/Clerical,Pune,All,441,-17,-64,declining,0,[],f,2026-03-06 03:15:31.438734+00
+Manual Bookkeeping,Visakhapatnam,All,440,-20,-60,declining,0,[],f,2026-03-06 03:15:31.580958+00
+Python for Data,Jaipur,All,439,34,107,rising,4797,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.481591+00
+Product Management,Bhopal,All,439,11,46,rising,0,[],f,2026-03-06 03:15:31.51568+00
+Blockchain,Agra,All,438,7,32,rising,0,[],f,2026-03-06 03:15:31.716054+00
+Voice Support,Pune,All,438,-29,-106,declining,0,[],f,2026-03-06 03:15:31.435537+00
+Basic Excel,Chandigarh,All,438,-10,-47,declining,0,[],f,2026-03-06 03:15:31.559197+00
+Product Management,Guwahati,All,438,19,54,rising,0,[],f,2026-03-06 03:15:31.704749+00
+Network Cabling,Thiruvananthapuram,All,437,-2,-19,declining,0,[],f,2026-03-06 03:15:31.593921+00
+Dreamweaver,Rajkot,All,437,-2,-17,declining,0,[],f,2026-03-06 03:15:31.626348+00
+Tally Accounting,Ahmedabad,All,437,-17,-47,declining,0,[],f,2026-03-06 03:15:31.446461+00
+PHP Development,Hubli,All,437,-14,-49,declining,0,[],f,2026-03-06 03:15:31.675772+00
+React/Next.js,Vadodara,All,437,19,64,rising,1070,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.523725+00
+Traditional SEO,Mangaluru,All,436,-15,-40,declining,0,[],f,2026-03-06 03:15:31.666316+00
+PHP Development,Mumbai,All,436,-12,-47,declining,0,[],f,2026-03-06 03:15:31.375449+00
+Product Management,Bangalore,All,436,10,45,rising,0,[],f,2026-03-06 03:15:31.394031+00
+Dreamweaver,Pune,All,435,-5,-20,declining,0,[],f,2026-03-06 03:15:31.440166+00
+Telemarketing,Varanasi,All,435,-28,-90,declining,0,[],f,2026-03-06 03:15:31.729878+00
+Basic Excel,Ranchi,All,435,-12,-49,declining,0,[],f,2026-03-06 03:15:31.643559+00
+DevOps/CI-CD,Chandigarh,All,435,21,71,rising,372,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.554989+00
+Agile/Scrum,Jodhpur,All,434,16,46,rising,1730,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.631048+00
+Machine Learning,Ahmedabad,All,434,32,117,rising,1752,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.441403+00
+Dreamweaver,Chandigarh,All,434,-11,-26,declining,0,[],f,2026-03-06 03:15:31.563211+00
+Desktop Publishing,Tiruchirappalli,All,432,-20,-62,declining,0,[],f,2026-03-06 03:15:31.687731+00
+Cold Calling,Jodhpur,All,432,-24,-74,declining,0,[],f,2026-03-06 03:15:31.633379+00
+Dreamweaver,Lucknow,All,432,-7,-22,declining,0,[],f,2026-03-06 03:15:31.511441+00
+Filing/Clerical,Guwahati,All,432,-16,-63,declining,0,[],f,2026-03-06 03:15:31.709382+00
+Machine Learning,Chandigarh,All,431,34,119,rising,879,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.554201+00
+Tally Accounting,Varanasi,All,430,-11,-41,declining,0,[],f,2026-03-06 03:15:31.727845+00
+Agile/Scrum,Siliguri,All,430,17,47,rising,4566,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.746999+00
+Shorthand,Coimbatore,All,430,-34,-109,declining,0,[],f,2026-03-06 03:15:31.480295+00
+Python for Data,Chennai,All,429,26,99,rising,2855,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.410733+00
+Telemarketing,Guwahati,All,429,-22,-84,declining,0,[],f,2026-03-06 03:15:31.709125+00
+Data Entry,Kochi,All,429,-22,-77,declining,0,[],f,2026-03-06 03:15:31.568859+00
+AI-assisted Content Moderation,Jabalpur,All,428,83,283,rising,0,[],f,2026-03-06 03:15:31.734582+00
+LLM Fine-Tuning,Nashik,All,428,32,110,rising,0,[],f,2026-03-06 03:15:31.492517+00
+Agile/Scrum,Ranchi,All,428,16,46,rising,3474,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.641935+00
+UI/UX Design,Agra,All,427,17,55,rising,1527,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.714866+00
+Product Management,Mumbai,All,427,15,50,rising,0,[],f,2026-03-06 03:15:31.373048+00
+Network Cabling,Jabalpur,All,426,-6,-23,declining,0,[],f,2026-03-06 03:15:31.741519+00
+Product Management,Jodhpur,All,426,12,47,rising,0,[],f,2026-03-06 03:15:31.630784+00
+Agile/Scrum,Patna,All,426,9,39,rising,2468,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.547182+00
+Legacy COBOL,Kolkata,All,426,-6,-26,declining,0,[],f,2026-03-06 03:15:31.428831+00
+Data Engineering,Nagpur,All,425,25,85,rising,4197,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.453578+00
+Natural Language Processing,Chennai,All,425,35,123,rising,0,[],f,2026-03-06 03:15:31.412985+00
+Manual Testing,Jaipur,All,424,-13,-58,declining,0,[],f,2026-03-06 03:15:31.486802+00
+Manual Bookkeeping,Siliguri,All,424,-14,-54,declining,0,[],f,2026-03-06 03:15:31.749847+00
+Manual Testing,Mysuru,All,424,-23,-68,declining,0,[],f,2026-03-06 03:15:31.600682+00
+Product Management,Chennai,All,423,10,45,rising,0,[],f,2026-03-06 03:15:31.41423+00
+Salesforce,Mumbai,All,423,11,39,rising,1895,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.373539+00
+Natural Language Processing,Hyderabad,All,423,38,126,rising,0,[],f,2026-03-06 03:15:31.402884+00
+Cybersecurity,Thiruvananthapuram,All,423,23,91,rising,158,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.586631+00
+AI Quality Review,Nashik,All,423,34,129,rising,0,[],f,2026-03-06 03:15:31.491537+00
+Salesforce,Mysuru,All,423,10,38,rising,1921,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.59962+00
+Telemarketing,Surat,All,422,-23,-85,declining,0,[],f,2026-03-06 03:15:31.540524+00
+Data Entry,Nagpur,All,422,-19,-74,declining,0,[],f,2026-03-06 03:15:31.455791+00
+Data Engineering,Bangalore,All,422,22,82,rising,4703,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.393015+00
+Telemarketing,Visakhapatnam,All,422,-27,-89,declining,0,[],f,2026-03-06 03:15:31.582112+00
+Hardware Troubleshooting,Mangaluru,All,421,-14,-36,declining,0,[],f,2026-03-06 03:15:31.667816+00
+Python for Data,Guwahati,All,421,29,102,rising,207,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.7011+00
+Copy Typing,Bangalore,All,421,-26,-96,declining,0,[],f,2026-03-06 03:15:31.396815+00
+Telemarketing,Agra,All,421,-28,-90,declining,0,[],f,2026-03-06 03:15:31.719395+00
+Prompt Engineering,Ahmedabad,All,420,39,144,rising,0,[],f,2026-03-06 03:15:31.440399+00
+Cybersecurity,Patna,All,420,24,92,rising,1694,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.545002+00
+Print Media Design,Jodhpur,All,420,-15,-47,declining,0,[],f,2026-03-06 03:15:31.63448+00
+Cybersecurity,Agra,All,420,24,92,rising,257,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.713343+00
+Cloud Computing (AWS),Surat,All,419,29,92,rising,167,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.533051+00
+Legacy COBOL,Patna,All,419,-13,-33,declining,0,[],f,2026-03-06 03:15:31.551682+00
+Computer Vision,Guwahati,All,419,22,77,rising,0,[],f,2026-03-06 03:15:31.702152+00
+Filing/Clerical,Tiruchirappalli,All,419,-24,-71,declining,0,[],f,2026-03-06 03:15:31.688239+00
+Machine Learning,Hubli,All,419,29,114,rising,1437,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.670068+00
+Basic Excel,Rajkot,All,418,-12,-49,declining,0,[],f,2026-03-06 03:15:31.622216+00
+React/Next.js,Dehradun,All,418,20,65,rising,707,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.650114+00
+Legacy COBOL,Dehradun,All,418,-10,-30,declining,0,[],f,2026-03-06 03:15:31.656967+00
+Tableau/Power BI,Thiruvananthapuram,All,418,19,59,rising,1697,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.587868+00
+Tableau/Power BI,Mysuru,All,418,18,58,rising,1985,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.59844+00
+Cold Calling,Bhopal,All,417,-21,-71,declining,0,[],f,2026-03-06 03:15:31.518132+00
+UI/UX Design,Kochi,All,417,15,53,rising,3648,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.567387+00
+Data Engineering,Mumbai,All,417,19,79,rising,1305,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.371988+00
+Manual Testing,Nagpur,All,417,-23,-68,declining,0,[],f,2026-03-06 03:15:31.456054+00
+Voice Support,Chandigarh,All,417,-26,-103,declining,0,[],f,2026-03-06 03:15:31.558401+00
+Legacy COBOL,Ranchi,All,416,-5,-25,declining,0,[],f,2026-03-06 03:15:31.646449+00
+Data Engineering,Jodhpur,All,416,22,82,rising,196,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.62979+00
+Shorthand,Patna,All,415,-35,-110,declining,0,[],f,2026-03-06 03:15:31.55243+00
+Manual Bookkeeping,Guwahati,All,415,-15,-55,declining,0,[],f,2026-03-06 03:15:31.708092+00
+Voice Support,Coimbatore,All,414,-28,-105,declining,0,[],f,2026-03-06 03:15:31.475807+00
+Manual Testing,Hubli,All,414,-14,-59,declining,0,[],f,2026-03-06 03:15:31.675006+00
+Tableau/Power BI,Kochi,All,414,11,51,rising,134,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.567137+00
+Data Entry,Jodhpur,All,414,-26,-81,declining,0,[],f,2026-03-06 03:15:31.632084+00
+Dreamweaver,Coimbatore,All,413,-9,-24,declining,0,[],f,2026-03-06 03:15:31.480838+00
+Computer Vision,Nashik,All,413,21,76,rising,0,[],f,2026-03-06 03:15:31.492761+00
+Natural Language Processing,Tiruchirappalli,All,413,34,122,rising,0,[],f,2026-03-06 03:15:31.682558+00
+Copy Typing,Lucknow,All,413,-33,-103,declining,0,[],f,2026-03-06 03:15:31.508297+00
+Traditional SEO,Pune,All,412,-5,-30,declining,0,[],f,2026-03-06 03:15:31.437774+00
+Cold Calling,Agra,All,412,-18,-68,declining,0,[],f,2026-03-06 03:15:31.717865+00
+Cybersecurity,Visakhapatnam,All,412,22,90,rising,2577,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.576063+00
+Print Media Design,Patna,All,412,-14,-46,declining,0,[],f,2026-03-06 03:15:31.550661+00
+Natural Language Processing,Varanasi,All,411,35,123,rising,0,[],f,2026-03-06 03:15:31.724261+00
+Traditional SEO,Rajkot,All,411,-5,-30,declining,0,[],f,2026-03-06 03:15:31.623783+00
+Python for Data,Kolkata,All,411,28,101,rising,1224,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.420786+00
+Python for Data,Mangaluru,All,410,33,106,rising,2916,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.659119+00
+LLM Fine-Tuning,Vadodara,All,410,31,109,rising,0,[],f,2026-03-06 03:15:31.522988+00
+Legacy COBOL,Thiruvananthapuram,All,410,-13,-33,declining,0,[],f,2026-03-06 03:15:31.59338+00
+Computer Vision,Ranchi,All,409,21,76,rising,0,[],f,2026-03-06 03:15:31.639107+00
+Filing/Clerical,Dehradun,All,409,-22,-69,declining,0,[],f,2026-03-06 03:15:31.656714+00
+Manual Bookkeeping,Thiruvananthapuram,All,409,-18,-58,declining,0,[],f,2026-03-06 03:15:31.591759+00
+AI-assisted Content Moderation,Ranchi,All,408,80,280,rising,0,[],f,2026-03-06 03:15:31.640184+00
+Tally Accounting,Hyderabad,All,408,-17,-47,declining,0,[],f,2026-03-06 03:15:31.406086+00
+PHP Development,Chennai,All,408,-16,-51,declining,0,[],f,2026-03-06 03:15:31.41655+00
+Computer Vision,Siliguri,All,408,19,74,rising,0,[],f,2026-03-06 03:15:31.744286+00
+AI Quality Review,Visakhapatnam,All,408,37,132,rising,0,[],f,2026-03-06 03:15:31.574034+00
+Tableau/Power BI,Jodhpur,All,407,15,55,rising,4759,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.630281+00
+Computer Vision,Chennai,All,407,23,78,rising,0,[],f,2026-03-06 03:15:31.411738+00
+Traditional SEO,Madurai,All,406,-14,-39,declining,0,[],f,2026-03-06 03:15:31.613173+00
+Python for Data,Thiruvananthapuram,All,406,26,99,rising,4470,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.584739+00
+Kubernetes/Docker,Jodhpur,All,406,19,67,rising,0,[],f,2026-03-06 03:15:31.630031+00
+Salesforce,Coimbatore,All,406,14,42,rising,3924,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.475312+00
+Tally Accounting,Pune,All,406,-11,-41,declining,0,[],f,2026-03-06 03:15:31.436539+00
+Prompt Engineering,Dehradun,All,405,44,149,rising,0,[],f,2026-03-06 03:15:31.647947+00
+Voice Support,Ahmedabad,All,405,-31,-108,declining,0,[],f,2026-03-06 03:15:31.44547+00
+Data Engineering,Raipur,All,405,25,85,rising,3700,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.693362+00
+Manual Bookkeeping,Vadodara,All,405,-20,-60,declining,0,[],f,2026-03-06 03:15:31.528994+00
+Cold Calling,Jabalpur,All,405,-22,-72,declining,0,[],f,2026-03-06 03:15:31.738846+00
+Legacy COBOL,Jabalpur,All,405,-10,-30,declining,0,[],f,2026-03-06 03:15:31.741019+00
+UI/UX Design,Jabalpur,All,404,20,58,rising,3503,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.735906+00
+Network Cabling,Visakhapatnam,All,404,-8,-25,declining,0,[],f,2026-03-06 03:15:31.583132+00
+Cloud Computing (AWS),Ranchi,All,404,22,85,rising,626,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.638313+00
+VB.NET,Delhi,All,404,-15,-42,declining,0,[],f,2026-03-06 03:15:31.389322+00
+Network Cabling,Bangalore,All,404,-3,-20,declining,0,[],f,2026-03-06 03:15:31.399193+00
+Network Cabling,Lucknow,All,404,-4,-21,declining,0,[],f,2026-03-06 03:15:31.510577+00
+Network Cabling,Hubli,All,403,-3,-20,declining,0,[],f,2026-03-06 03:15:31.678579+00
+PHP Development,Surat,All,403,-16,-51,declining,0,[],f,2026-03-06 03:15:31.538748+00
+Data Entry,Ranchi,All,403,-25,-80,declining,0,[],f,2026-03-06 03:15:31.643052+00
+Prompt Engineering,Mysuru,All,403,39,144,rising,0,[],f,2026-03-06 03:15:31.594955+00
+Data Engineering,Varanasi,All,403,19,79,rising,1387,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.724524+00
+Blockchain,Jabalpur,All,402,12,37,rising,0,[],f,2026-03-06 03:15:31.736947+00
+Salesforce,Rajkot,All,402,12,40,rising,2391,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.62092+00
+Data Engineering,Vadodara,All,401,29,89,rising,2615,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.524714+00
+Natural Language Processing,Coimbatore,All,401,39,127,rising,0,[],f,2026-03-06 03:15:31.473559+00
+Agile/Scrum,Rajkot,All,401,14,44,rising,1264,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.620663+00
+Cybersecurity,Pune,All,401,29,97,rising,3140,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.432616+00
+Salesforce,Thiruvananthapuram,All,400,11,39,rising,278,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.588868+00
+LLM Fine-Tuning,Bangalore,All,400,31,109,rising,0,[],f,2026-03-06 03:15:31.391265+00
+Cold Calling,Mangaluru,All,400,-16,-66,declining,0,[],f,2026-03-06 03:15:31.665517+00
+Cloud Computing (AWS),Bhopal,All,400,24,87,rising,407,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.512456+00
+UI/UX Design,Hyderabad,All,400,16,54,rising,769,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.40386+00
+Cloud Computing (AWS),Jaipur,All,399,20,83,rising,2024,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.481846+00
+Data Entry,Dehradun,All,399,-22,-77,declining,0,[],f,2026-03-06 03:15:31.653469+00
+AI-assisted Content Moderation,Dehradun,All,399,79,279,rising,0,[],f,2026-03-06 03:15:31.650656+00
+Tableau/Power BI,Tiruchirappalli,All,398,19,59,rising,3962,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.683358+00
+Data Engineering,Kochi,All,398,28,88,rising,4803,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.566636+00
+Cold Calling,Madurai,All,398,-20,-70,declining,0,[],f,2026-03-06 03:15:31.612432+00
+Telemarketing,Ahmedabad,All,398,-22,-84,declining,0,[],f,2026-03-06 03:15:31.448476+00
+Desktop Publishing,Madurai,All,397,-22,-64,declining,0,[],f,2026-03-06 03:15:31.613679+00
+Machine Learning,Bangalore,All,397,29,114,rising,1845,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.39097+00
+Machine Learning,Raipur,All,397,31,116,rising,4460,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.691215+00
+PHP Development,Thiruvananthapuram,All,397,-13,-48,declining,0,[],f,2026-03-06 03:15:31.590971+00
+Cold Calling,Mysuru,All,397,-18,-68,declining,0,[],f,2026-03-06 03:15:31.601726+00
+LLM Fine-Tuning,Jodhpur,All,396,32,110,rising,0,[],f,2026-03-06 03:15:31.628075+00
+LLM Fine-Tuning,Indore,All,396,34,112,rising,0,[],f,2026-03-06 03:15:31.461914+00
+React/Next.js,Tiruchirappalli,All,396,16,61,rising,3394,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.681793+00
+Manual Testing,Madurai,All,395,-20,-65,declining,0,[],f,2026-03-06 03:15:31.611404+00
+AI-assisted Content Moderation,Delhi,All,395,79,279,rising,0,[],f,2026-03-06 03:15:31.382452+00
+Manual Testing,Coimbatore,All,395,-19,-64,declining,0,[],f,2026-03-06 03:15:31.47644+00
+React/Next.js,Nashik,All,394,17,62,rising,1849,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.493263+00
+Shorthand,Mysuru,All,394,-33,-108,declining,0,[],f,2026-03-06 03:15:31.604783+00
+Natural Language Processing,Nagpur,All,394,37,125,rising,0,[],f,2026-03-06 03:15:31.453322+00
+DevOps/CI-CD,Pune,All,394,21,71,rising,2992,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.43206+00
+Filing/Clerical,Rajkot,All,394,-21,-68,declining,0,[],f,2026-03-06 03:15:31.62479+00
+Cloud Computing (AWS),Rajkot,All,394,23,86,rising,2695,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.616763+00
+DevOps/CI-CD,Guwahati,All,393,18,68,rising,1719,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.702412+00
+Print Media Design,Jaipur,All,393,-13,-45,declining,0,[],f,2026-03-06 03:15:31.48878+00
+Blockchain,Mumbai,All,393,11,36,rising,0,[],f,2026-03-06 03:15:31.373805+00
+Copy Typing,Vadodara,All,393,-26,-96,declining,0,[],f,2026-03-06 03:15:31.528741+00
+Print Media Design,Madurai,All,392,-10,-42,declining,0,[],f,2026-03-06 03:15:31.61343+00
+AI Quality Review,Jodhpur,All,392,43,138,rising,0,[],f,2026-03-06 03:15:31.627016+00
+Agile/Scrum,Kochi,All,391,8,38,rising,1276,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.567872+00
+Basic Excel,Bangalore,All,390,-19,-56,declining,0,[],f,2026-03-06 03:15:31.395816+00
+UI/UX Design,Mysuru,All,390,14,52,rising,3285,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.598701+00
+Tableau/Power BI,Coimbatore,All,390,15,55,rising,1948,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.474296+00
+Copy Typing,Kochi,All,390,-26,-96,declining,0,[],f,2026-03-06 03:15:31.570444+00
+Cold Calling,Indore,All,390,-22,-72,declining,0,[],f,2026-03-06 03:15:31.467293+00
+Agile/Scrum,Thiruvananthapuram,All,390,17,47,rising,3226,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.588618+00
+Telemarketing,Raipur,All,389,-24,-86,declining,0,[],f,2026-03-06 03:15:31.698577+00
+UI/UX Design,Delhi,All,389,12,50,rising,722,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.383672+00
+React/Next.js,Kochi,All,388,18,63,rising,1465,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.565601+00
+Product Management,Nagpur,All,388,18,53,rising,0,[],f,2026-03-06 03:15:31.454577+00
+Data Entry,Tiruchirappalli,All,388,-26,-81,declining,0,[],f,2026-03-06 03:15:31.685125+00
+Traditional SEO,Bangalore,All,388,-6,-31,declining,0,[],f,2026-03-06 03:15:31.397296+00
+Product Management,Indore,All,388,12,47,rising,0,[],f,2026-03-06 03:15:31.464782+00
+Telemarketing,Nashik,All,387,-20,-82,declining,0,[],f,2026-03-06 03:15:31.499404+00
+PHP Development,Visakhapatnam,All,387,-13,-48,declining,0,[],f,2026-03-06 03:15:31.580209+00
+Filing/Clerical,Vadodara,All,385,-14,-61,declining,0,[],f,2026-03-06 03:15:31.530331+00
+React/Next.js,Lucknow,All,385,21,66,rising,3732,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.50359+00
+Blockchain,Surat,All,385,9,34,rising,0,[],f,2026-03-06 03:15:31.537171+00
+Tally Accounting,Bhopal,All,385,-15,-45,declining,0,[],f,2026-03-06 03:15:31.517638+00
+Shorthand,Jodhpur,All,384,-31,-106,declining,0,[],f,2026-03-06 03:15:31.636692+00
+Voice Support,Patna,All,384,-28,-105,declining,0,[],f,2026-03-06 03:15:31.547932+00
+Hardware Troubleshooting,Varanasi,All,384,-10,-32,declining,0,[],f,2026-03-06 03:15:31.730614+00
+Filing/Clerical,Kochi,All,383,-21,-68,declining,0,[],f,2026-03-06 03:15:31.571913+00
+Agile/Scrum,Jaipur,All,383,8,38,rising,2261,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.485544+00
+PHP Development,Indore,All,383,-19,-54,declining,0,[],f,2026-03-06 03:15:31.467048+00
+Computer Vision,Bangalore,All,382,26,81,rising,0,[],f,2026-03-06 03:15:31.391538+00
+Telemarketing,Thiruvananthapuram,All,382,-25,-87,declining,0,[],f,2026-03-06 03:15:31.592836+00
+Agile/Scrum,Pune,All,382,13,43,rising,2450,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.434784+00
+Basic Excel,Nagpur,All,381,-17,-54,declining,0,[],f,2026-03-06 03:15:31.4563+00
+Data Engineering,Mangaluru,All,381,29,89,rising,1881,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.661802+00
+Dreamweaver,Madurai,All,381,-6,-21,declining,0,[],f,2026-03-06 03:15:31.61572+00
+Filing/Clerical,Hubli,All,380,-22,-69,declining,0,[],f,2026-03-06 03:15:31.67783+00
+Print Media Design,Thiruvananthapuram,All,380,-10,-42,declining,0,[],f,2026-03-06 03:15:31.592332+00
+Shorthand,Mangaluru,All,380,-29,-104,declining,0,[],f,2026-03-06 03:15:31.668331+00
+React/Next.js,Jabalpur,All,380,18,63,rising,412,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.734077+00
+Copy Typing,Raipur,All,380,-27,-97,declining,0,[],f,2026-03-06 03:15:31.697178+00
+Data Entry,Chennai,All,380,-21,-76,declining,0,[],f,2026-03-06 03:15:31.415446+00
+Print Media Design,Mumbai,All,379,-14,-46,declining,0,[],f,2026-03-06 03:15:31.376757+00
+Hardware Troubleshooting,Madurai,All,379,-12,-34,declining,0,[],f,2026-03-06 03:15:31.614706+00
+Network Cabling,Siliguri,All,378,-11,-28,declining,0,[],f,2026-03-06 03:15:31.752059+00
+Cybersecurity,Ahmedabad,All,378,29,97,rising,1546,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.44275+00
+Data Engineering,Ahmedabad,All,377,21,81,rising,2122,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.443505+00
+Product Management,Vadodara,All,377,17,52,rising,0,[],f,2026-03-06 03:15:31.525786+00
+Product Management,Pune,All,376,16,51,rising,0,[],f,2026-03-06 03:15:31.434527+00
+Kubernetes/Docker,Kolkata,All,376,19,67,rising,0,[],f,2026-03-06 03:15:31.423494+00
+AI Quality Review,Kochi,All,376,33,128,rising,0,[],f,2026-03-06 03:15:31.563695+00
+Agile/Scrum,Surat,All,376,11,41,rising,1799,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.536642+00
+Network Cabling,Ahmedabad,All,376,-11,-28,declining,0,[],f,2026-03-06 03:15:31.44952+00
+Product Management,Coimbatore,All,375,18,53,rising,0,[],f,2026-03-06 03:15:31.474813+00
+Salesforce,Ahmedabad,All,375,14,42,rising,2973,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.444981+00
+Legacy COBOL,Vadodara,All,375,-7,-27,declining,0,[],f,2026-03-06 03:15:31.530626+00
+Hardware Troubleshooting,Jaipur,All,375,-4,-26,declining,0,[],f,2026-03-06 03:15:31.490016+00
+Print Media Design,Mysuru,All,374,-8,-40,declining,0,[],f,2026-03-06 03:15:31.602829+00
+Basic Excel,Pune,All,373,-10,-47,declining,0,[],f,2026-03-06 03:15:31.436278+00
+Cold Calling,Coimbatore,All,373,-22,-72,declining,0,[],f,2026-03-06 03:15:31.477488+00
+Print Media Design,Chandigarh,All,373,-11,-43,declining,0,[],f,2026-03-06 03:15:31.560978+00
+Cloud Computing (AWS),Raipur,All,373,30,93,rising,3643,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.690968+00
+UI/UX Design,Coimbatore,All,372,19,57,rising,4429,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.474545+00
+Hardware Troubleshooting,Raipur,All,372,-9,-31,declining,0,[],f,2026-03-06 03:15:31.699329+00
+PHP Development,Ahmedabad,All,372,-9,-44,declining,0,[],f,2026-03-06 03:15:31.446707+00
+Product Management,Nashik,All,372,13,48,rising,0,[],f,2026-03-06 03:15:31.495437+00
+Product Management,Jaipur,All,371,18,53,rising,0,[],f,2026-03-06 03:15:31.48529+00
+Dreamweaver,Jodhpur,All,371,-3,-18,declining,0,[],f,2026-03-06 03:15:31.637206+00
+Copy Typing,Jodhpur,All,371,-29,-99,declining,0,[],f,2026-03-06 03:15:31.633648+00
+UI/UX Design,Ahmedabad,All,370,10,48,rising,2730,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.444254+00
+Telemarketing,Rajkot,All,370,-24,-86,declining,0,[],f,2026-03-06 03:15:31.624571+00
+UI/UX Design,Thiruvananthapuram,All,370,20,58,rising,4305,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.588141+00
+Telemarketing,Jodhpur,All,370,-20,-82,declining,0,[],f,2026-03-06 03:15:31.634983+00
+Computer Vision,Raipur,All,369,23,78,rising,0,[],f,2026-03-06 03:15:31.691719+00
+Tally Accounting,Chennai,All,369,-8,-38,declining,0,[],f,2026-03-06 03:15:31.41632+00
+Data Entry,Agra,All,369,-25,-80,declining,0,[],f,2026-03-06 03:15:31.71658+00
+Cybersecurity,Rajkot,All,368,22,90,rising,2947,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.618509+00
+Agile/Scrum,Nagpur,All,367,14,44,rising,2882,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.454825+00
+Blockchain,Nagpur,All,367,15,40,rising,0,[],f,2026-03-06 03:15:31.455316+00
+Voice Support,Jodhpur,All,367,-28,-105,declining,0,[],f,2026-03-06 03:15:31.631819+00
+LLM Fine-Tuning,Jaipur,All,367,26,104,rising,0,[],f,2026-03-06 03:15:31.482382+00
+Natural Language Processing,Madurai,All,367,40,128,rising,0,[],f,2026-03-06 03:15:31.608587+00
+Prompt Engineering,Madurai,All,367,41,146,rising,0,[],f,2026-03-06 03:15:31.60557+00
+Tally Accounting,Hubli,All,367,-11,-41,declining,0,[],f,2026-03-06 03:15:31.675515+00
+Data Engineering,Madurai,All,367,23,83,rising,1826,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.608837+00
+AI Quality Review,Patna,All,365,36,131,rising,0,[],f,2026-03-06 03:15:31.542835+00
+DevOps/CI-CD,Mangaluru,All,365,17,67,rising,634,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.660505+00
+Desktop Publishing,Patna,All,365,-17,-59,declining,0,[],f,2026-03-06 03:15:31.550907+00
+Manual Bookkeeping,Mangaluru,All,365,-20,-60,declining,0,[],f,2026-03-06 03:15:31.666032+00
+Copy Typing,Mysuru,All,365,-23,-93,declining,0,[],f,2026-03-06 03:15:31.602009+00
+VB.NET,Kochi,All,365,-9,-36,declining,0,[],f,2026-03-06 03:15:31.5733+00
+Filing/Clerical,Siliguri,All,365,-15,-62,declining,0,[],f,2026-03-06 03:15:31.751108+00
+Cybersecurity,Bhopal,All,364,28,96,rising,867,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.513942+00
+Computer Vision,Jabalpur,All,364,22,77,rising,0,[],f,2026-03-06 03:15:31.733433+00
+DevOps/CI-CD,Hyderabad,All,364,22,72,rising,2999,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.401908+00
+Blockchain,Chennai,All,364,6,31,rising,0,[],f,2026-03-06 03:15:31.414974+00
+Telemarketing,Jabalpur,All,364,-24,-86,declining,0,[],f,2026-03-06 03:15:31.74047+00
+Shorthand,Jaipur,All,363,-25,-100,declining,0,[],f,2026-03-06 03:15:31.490525+00
+Dreamweaver,Bangalore,All,363,-9,-24,declining,0,[],f,2026-03-06 03:15:31.399915+00
+Agile/Scrum,Madurai,All,363,14,44,rising,1425,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.610155+00
+Legacy COBOL,Nagpur,All,363,-3,-23,declining,0,[],f,2026-03-06 03:15:31.458996+00
+Network Cabling,Jaipur,All,363,-11,-28,declining,0,[],f,2026-03-06 03:15:31.490282+00
+Shorthand,Madurai,All,362,-30,-105,declining,0,[],f,2026-03-06 03:15:31.615219+00
+Desktop Publishing,Pune,All,362,-16,-58,declining,0,[],f,2026-03-06 03:15:31.438249+00
+Prompt Engineering,Indore,All,362,47,152,rising,0,[],f,2026-03-06 03:15:31.460682+00
+Python for Data,Madurai,All,361,30,103,rising,2314,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.606085+00
+React/Next.js,Visakhapatnam,All,360,15,60,rising,1994,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.575796+00
+Natural Language Processing,Pune,All,360,36,124,rising,0,[],f,2026-03-06 03:15:31.433125+00
+Network Cabling,Kolkata,All,359,-12,-29,declining,0,[],f,2026-03-06 03:15:31.429315+00
+Desktop Publishing,Surat,All,358,-20,-62,declining,0,[],f,2026-03-06 03:15:31.540286+00
+Product Management,Patna,All,358,10,45,rising,0,[],f,2026-03-06 03:15:31.54693+00
+Cybersecurity,Mysuru,All,357,26,94,rising,1766,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.597195+00
+Basic Excel,Jodhpur,All,357,-11,-48,declining,0,[],f,2026-03-06 03:15:31.632596+00
+Print Media Design,Varanasi,All,356,-16,-48,declining,0,[],f,2026-03-06 03:15:31.729377+00
+Basic Excel,Hubli,All,356,-10,-47,declining,0,[],f,2026-03-06 03:15:31.675268+00
+Voice Support,Delhi,All,355,-32,-109,declining,0,[],f,2026-03-06 03:15:31.384922+00
+Shorthand,Indore,All,355,-28,-103,declining,0,[],f,2026-03-06 03:15:31.470168+00
+Salesforce,Visakhapatnam,All,355,6,34,rising,3461,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.578421+00
+Agile/Scrum,Lucknow,All,355,15,45,rising,1754,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.505799+00
+Filing/Clerical,Indore,All,355,-24,-71,declining,0,[],f,2026-03-06 03:15:31.469164+00
+Data Engineering,Chandigarh,All,354,28,88,rising,4532,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.556365+00
+Python for Data,Hyderabad,All,354,25,98,rising,248,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.400664+00
+Network Cabling,Agra,All,354,-10,-27,declining,0,[],f,2026-03-06 03:15:31.720396+00
+DevOps/CI-CD,Jaipur,All,354,23,73,rising,2281,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.482877+00
+Tableau/Power BI,Ranchi,All,352,14,54,rising,3576,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.641188+00
+Copy Typing,Patna,All,351,-25,-95,declining,0,[],f,2026-03-06 03:15:31.549901+00
+Salesforce,Delhi,All,351,6,34,rising,2458,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.384423+00
+LLM Fine-Tuning,Nagpur,All,351,36,114,rising,0,[],f,2026-03-06 03:15:31.45184+00
+UI/UX Design,Bhopal,All,351,19,57,rising,3590,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.515436+00
+Desktop Publishing,Mumbai,All,351,-16,-58,declining,0,[],f,2026-03-06 03:15:31.377029+00
+Manual Bookkeeping,Raipur,All,350,-11,-51,declining,0,[],f,2026-03-06 03:15:31.697429+00
+Voice Support,Madurai,All,350,-29,-106,declining,0,[],f,2026-03-06 03:15:31.610906+00
+Traditional SEO,Bhopal,All,350,-12,-37,declining,0,[],f,2026-03-06 03:15:31.518894+00
+Hardware Troubleshooting,Thiruvananthapuram,All,350,-6,-28,declining,0,[],f,2026-03-06 03:15:31.593641+00
+Manual Testing,Thiruvananthapuram,All,349,-19,-64,declining,0,[],f,2026-03-06 03:15:31.589889+00
+Manual Bookkeeping,Surat,All,349,-12,-52,declining,0,[],f,2026-03-06 03:15:31.539538+00
+Tally Accounting,Mysuru,All,349,-15,-45,declining,0,[],f,2026-03-06 03:15:31.601199+00
+Data Entry,Kolkata,All,348,-23,-78,declining,0,[],f,2026-03-06 03:15:31.425634+00
+LLM Fine-Tuning,Chennai,All,347,27,105,rising,0,[],f,2026-03-06 03:15:31.411475+00
+Tableau/Power BI,Dehradun,All,347,17,57,rising,4032,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.651674+00
+Legacy COBOL,Agra,All,347,-3,-23,declining,0,[],f,2026-03-06 03:15:31.719886+00
+React/Next.js,Nagpur,All,346,16,61,rising,3430,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.452559+00
+Cloud Computing (AWS),Madurai,All,346,29,92,rising,1956,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.606344+00
+Prompt Engineering,Mumbai,All,346,37,142,rising,0,[],f,2026-03-06 03:15:31.36874+00
+Basic Excel,Agra,All,346,-11,-48,declining,0,[],f,2026-03-06 03:15:31.717085+00
+Natural Language Processing,Jabalpur,All,346,38,126,rising,0,[],f,2026-03-06 03:15:31.734843+00
+Prompt Engineering,Lucknow,All,346,37,142,rising,0,[],f,2026-03-06 03:15:31.501363+00
+Cold Calling,Tiruchirappalli,All,345,-24,-74,declining,0,[],f,2026-03-06 03:15:31.686443+00
+Hardware Troubleshooting,Patna,All,345,-4,-26,declining,0,[],f,2026-03-06 03:15:31.551929+00
+Print Media Design,Bhopal,All,344,-12,-44,declining,0,[],f,2026-03-06 03:15:31.519129+00
+Data Engineering,Surat,All,344,26,86,rising,2788,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.53534+00
+VB.NET,Vadodara,All,344,-7,-34,declining,0,[],f,2026-03-06 03:15:31.531735+00
+Blockchain,Ranchi,All,344,5,30,rising,0,[],f,2026-03-06 03:15:31.642501+00
+Print Media Design,Vadodara,All,344,-15,-47,declining,0,[],f,2026-03-06 03:15:31.52953+00
+Cold Calling,Ahmedabad,All,344,-25,-75,declining,0,[],f,2026-03-06 03:15:31.446959+00
+Product Management,Varanasi,All,343,13,48,rising,0,[],f,2026-03-06 03:15:31.725758+00
+Legacy COBOL,Siliguri,All,343,-13,-33,declining,0,[],f,2026-03-06 03:15:31.751528+00
+LLM Fine-Tuning,Mumbai,All,343,26,104,rising,0,[],f,2026-03-06 03:15:31.370156+00
+AI Quality Review,Hubli,All,343,37,132,rising,0,[],f,2026-03-06 03:15:31.669327+00
+Prompt Engineering,Surat,All,343,40,145,rising,0,[],f,2026-03-06 03:15:31.532282+00
+Machine Learning,Thiruvananthapuram,All,342,29,114,rising,4954,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.585293+00
+DevOps/CI-CD,Indore,All,342,24,74,rising,4118,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.46246+00
+LLM Fine-Tuning,Jabalpur,All,342,30,108,rising,0,[],f,2026-03-06 03:15:31.73319+00
+Computer Vision,Mangaluru,All,341,22,77,rising,0,[],f,2026-03-06 03:15:31.660251+00
+AI Quality Review,Ranchi,All,341,34,129,rising,0,[],f,2026-03-06 03:15:31.637776+00
+Cloud Computing (AWS),Bangalore,All,340,25,88,rising,438,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.390719+00
+React/Next.js,Ahmedabad,All,340,16,61,rising,3858,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.442509+00
+Cybersecurity,Nagpur,All,340,22,90,rising,197,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.452802+00
+Natural Language Processing,Vadodara,All,339,40,128,rising,0,[],f,2026-03-06 03:15:31.52447+00
+Shorthand,Chennai,All,339,-26,-101,declining,0,[],f,2026-03-06 03:15:31.419566+00
+Manual Testing,Ranchi,All,339,-23,-68,declining,0,[],f,2026-03-06 03:15:31.643312+00
+Telemarketing,Siliguri,All,338,-27,-89,declining,0,[],f,2026-03-06 03:15:31.750857+00
+Python for Data,Jodhpur,All,338,26,99,rising,461,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.627306+00
+AI-assisted Content Moderation,Thiruvananthapuram,All,338,79,279,rising,0,[],f,2026-03-06 03:15:31.586866+00
+Network Cabling,Dehradun,All,338,-2,-19,declining,0,[],f,2026-03-06 03:15:31.657527+00
+Computer Vision,Tiruchirappalli,All,338,20,75,rising,0,[],f,2026-03-06 03:15:31.681274+00
+Machine Learning,Nagpur,All,338,38,123,rising,2937,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.451605+00
+Cloud Computing (AWS),Tiruchirappalli,All,338,22,85,rising,4333,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.680341+00
+Print Media Design,Ranchi,All,338,-8,-40,declining,0,[],f,2026-03-06 03:15:31.64545+00
+Tally Accounting,Mumbai,All,337,-16,-46,declining,0,[],f,2026-03-06 03:15:31.37519+00
+Filing/Clerical,Mysuru,All,337,-18,-65,declining,0,[],f,2026-03-06 03:15:31.603616+00
+AI Quality Review,Jabalpur,All,337,42,137,rising,0,[],f,2026-03-06 03:15:31.732118+00
+Tableau/Power BI,Guwahati,All,336,21,61,rising,1589,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.704248+00
+Telemarketing,Kolkata,All,336,-21,-83,declining,0,[],f,2026-03-06 03:15:31.428328+00
+Computer Vision,Lucknow,All,336,17,72,rising,0,[],f,2026-03-06 03:15:31.503094+00
+Data Entry,Vadodara,All,336,-25,-80,declining,0,[],f,2026-03-06 03:15:31.527066+00
+LLM Fine-Tuning,Surat,All,336,26,104,rising,0,[],f,2026-03-06 03:15:31.533543+00
+Cold Calling,Ranchi,All,335,-16,-66,declining,0,[],f,2026-03-06 03:15:31.644315+00
+VB.NET,Tiruchirappalli,All,335,-6,-33,declining,0,[],f,2026-03-06 03:15:31.689671+00
+Network Cabling,Chandigarh,All,335,-4,-21,declining,0,[],f,2026-03-06 03:15:31.562472+00
+Cybersecurity,Raipur,All,334,23,91,rising,1438,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.692561+00
+Cloud Computing (AWS),Mangaluru,All,333,27,90,rising,4034,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.659389+00
+PHP Development,Kolkata,All,333,-12,-47,declining,0,[],f,2026-03-06 03:15:31.426642+00
+Telemarketing,Jaipur,All,333,-24,-86,declining,0,[],f,2026-03-06 03:15:31.489274+00
+VB.NET,Thiruvananthapuram,All,333,-8,-35,declining,0,[],f,2026-03-06 03:15:31.594433+00
+Hardware Troubleshooting,Vadodara,All,333,-13,-35,declining,0,[],f,2026-03-06 03:15:31.530891+00
+Manual Testing,Rajkot,All,333,-19,-64,declining,0,[],f,2026-03-06 03:15:31.62195+00
+AI Quality Review,Rajkot,All,332,39,134,rising,0,[],f,2026-03-06 03:15:31.616233+00
+Cold Calling,Raipur,All,332,-21,-71,declining,0,[],f,2026-03-06 03:15:31.696924+00
+Tally Accounting,Lucknow,All,331,-10,-40,declining,0,[],f,2026-03-06 03:15:31.507556+00
+Tableau/Power BI,Lucknow,All,331,17,57,rising,3096,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.505072+00
+Python for Data,Nashik,All,331,32,105,rising,612,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.491772+00
+AI-assisted Content Moderation,Nagpur,All,331,83,283,rising,0,[],f,2026-03-06 03:15:31.453056+00
+Manual Bookkeeping,Pune,All,330,-16,-56,declining,0,[],f,2026-03-06 03:15:31.437517+00
+Prompt Engineering,Jaipur,All,330,44,149,rising,0,[],f,2026-03-06 03:15:31.4811+00
+Python for Data,Hubli,All,330,27,100,rising,3523,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.669581+00
+Cold Calling,Hyderabad,All,329,-25,-75,declining,0,[],f,2026-03-06 03:15:31.406568+00
+LLM Fine-Tuning,Lucknow,All,329,33,111,rising,0,[],f,2026-03-06 03:15:31.502828+00
+Cybersecurity,Ranchi,All,329,22,90,rising,978,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.639904+00
+Blockchain,Lucknow,All,328,9,34,rising,0,[],f,2026-03-06 03:15:31.506302+00
+Product Management,Kolkata,All,328,9,44,rising,0,[],f,2026-03-06 03:15:31.424256+00
+Computer Vision,Hyderabad,All,328,22,77,rising,0,[],f,2026-03-06 03:15:31.40166+00
+Salesforce,Agra,All,328,10,38,rising,1450,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.715769+00
+Hardware Troubleshooting,Dehradun,All,327,-9,-31,declining,0,[],f,2026-03-06 03:15:31.657243+00
+Hardware Troubleshooting,Chandigarh,All,327,-6,-28,declining,0,[],f,2026-03-06 03:15:31.562228+00
+Traditional SEO,Mumbai,All,326,-14,-39,declining,0,[],f,2026-03-06 03:15:31.376473+00
+Machine Learning,Jaipur,All,326,34,119,rising,3788,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.482128+00
+Python for Data,Ranchi,All,326,28,101,rising,1181,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.638044+00
+Dreamweaver,Ranchi,All,326,-8,-23,declining,0,[],f,2026-03-06 03:15:31.647705+00
+Voice Support,Visakhapatnam,All,324,-36,-113,declining,0,[],f,2026-03-06 03:15:31.578928+00
+AI Quality Review,Agra,All,324,33,128,rising,0,[],f,2026-03-06 03:15:31.711356+00
+Cybersecurity,Hubli,All,323,29,97,rising,2303,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.67151+00
+Cloud Computing (AWS),Guwahati,All,323,26,89,rising,3335,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.701365+00
+Traditional SEO,Kolkata,All,323,-14,-39,declining,0,[],f,2026-03-06 03:15:31.427601+00
+Salesforce,Chandigarh,All,322,12,40,rising,2226,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.557878+00
+Data Entry,Hyderabad,All,322,-18,-73,declining,0,[],f,2026-03-06 03:15:31.405353+00
+React/Next.js,Hubli,All,322,18,63,rising,4940,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.671114+00
+Tally Accounting,Jodhpur,All,321,-14,-44,declining,0,[],f,2026-03-06 03:15:31.632852+00
+Hardware Troubleshooting,Mysuru,All,321,-13,-35,declining,0,[],f,2026-03-06 03:15:31.604288+00
+Manual Testing,Mangaluru,All,320,-14,-59,declining,0,[],f,2026-03-06 03:15:31.664482+00
+Manual Bookkeeping,Coimbatore,All,319,-20,-60,declining,0,[],f,2026-03-06 03:15:31.477979+00
+UI/UX Design,Mangaluru,All,319,11,49,rising,4837,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.662685+00
+Machine Learning,Agra,All,319,31,116,rising,1643,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.712062+00
+Shorthand,Rajkot,All,319,-30,-105,declining,0,[],f,2026-03-06 03:15:31.62583+00
+PHP Development,Mangaluru,All,318,-14,-49,declining,0,[],f,2026-03-06 03:15:31.665267+00
+LLM Fine-Tuning,Hyderabad,All,318,35,113,rising,0,[],f,2026-03-06 03:15:31.401417+00
+Shorthand,Ahmedabad,All,317,-35,-110,declining,0,[],f,2026-03-06 03:15:31.449759+00
+Natural Language Processing,Patna,All,317,38,126,rising,0,[],f,2026-03-06 03:15:31.545505+00
+Traditional SEO,Mysuru,All,317,-10,-35,declining,0,[],f,2026-03-06 03:15:31.602561+00
+Voice Support,Vadodara,All,317,-30,-107,declining,0,[],f,2026-03-06 03:15:31.526809+00
+PHP Development,Varanasi,All,316,-12,-47,declining,0,[],f,2026-03-06 03:15:31.728105+00
+Filing/Clerical,Bhopal,All,316,-19,-66,declining,0,[],f,2026-03-06 03:15:31.519995+00
+Cold Calling,Chandigarh,All,315,-19,-69,declining,0,[],f,2026-03-06 03:15:31.559963+00
+Blockchain,Hubli,All,315,14,39,rising,0,[],f,2026-03-06 03:15:31.674218+00
+Desktop Publishing,Jodhpur,All,315,-18,-60,declining,0,[],f,2026-03-06 03:15:31.634746+00
+DevOps/CI-CD,Ranchi,All,315,20,70,rising,1235,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.639382+00
+Basic Excel,Patna,All,314,-17,-54,declining,0,[],f,2026-03-06 03:15:31.548932+00
+Cloud Computing (AWS),Thiruvananthapuram,All,314,22,85,rising,3788,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.584999+00
+DevOps/CI-CD,Coimbatore,All,314,21,71,rising,1617,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.472599+00
+Traditional SEO,Vadodara,All,314,-11,-36,declining,0,[],f,2026-03-06 03:15:31.529254+00
+Natural Language Processing,Jodhpur,All,314,40,128,rising,0,[],f,2026-03-06 03:15:31.629554+00
+Manual Testing,Ahmedabad,All,314,-15,-60,declining,0,[],f,2026-03-06 03:15:31.445968+00
+Cybersecurity,Varanasi,All,313,26,94,rising,4425,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.723735+00
+LLM Fine-Tuning,Dehradun,All,313,31,109,rising,0,[],f,2026-03-06 03:15:31.649347+00
+Tally Accounting,Kochi,All,313,-8,-38,declining,0,[],f,2026-03-06 03:15:31.569675+00
+Manual Bookkeeping,Delhi,All,312,-11,-51,declining,0,[],f,2026-03-06 03:15:31.386861+00
+Copy Typing,Thiruvananthapuram,All,312,-29,-99,declining,0,[],f,2026-03-06 03:15:31.591479+00
+Blockchain,Tiruchirappalli,All,312,9,34,rising,0,[],f,2026-03-06 03:15:31.684625+00
+Kubernetes/Docker,Vadodara,All,312,20,68,rising,0,[],f,2026-03-06 03:15:31.524975+00
+Voice Support,Nagpur,All,312,-29,-106,declining,0,[],f,2026-03-06 03:15:31.455555+00
+Cold Calling,Patna,All,312,-21,-71,declining,0,[],f,2026-03-06 03:15:31.549664+00
+AI Quality Review,Surat,All,311,41,136,rising,0,[],f,2026-03-06 03:15:31.532554+00
+Cloud Computing (AWS),Mysuru,All,310,26,89,rising,4641,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.595705+00
+Basic Excel,Surat,All,309,-14,-51,declining,0,[],f,2026-03-06 03:15:31.538287+00
+Shorthand,Lucknow,All,309,-25,-100,declining,0,[],f,2026-03-06 03:15:31.510823+00
+Voice Support,Surat,All,309,-31,-108,declining,0,[],f,2026-03-06 03:15:31.537425+00
+Shorthand,Surat,All,309,-27,-102,declining,0,[],f,2026-03-06 03:15:31.541778+00
+Desktop Publishing,Rajkot,All,308,-22,-64,declining,0,[],f,2026-03-06 03:15:31.62433+00
+Copy Typing,Chandigarh,All,308,-32,-102,declining,0,[],f,2026-03-06 03:15:31.560226+00
+VB.NET,Jodhpur,All,308,-15,-42,declining,0,[],f,2026-03-06 03:15:31.636943+00
+PHP Development,Kochi,All,308,-11,-46,declining,0,[],f,2026-03-06 03:15:31.569923+00
+Cloud Computing (AWS),Chennai,All,307,29,92,rising,3782,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.41098+00
+Traditional SEO,Agra,All,307,-10,-35,declining,0,[],f,2026-03-06 03:15:31.718647+00
+React/Next.js,Coimbatore,All,307,22,67,rising,1124,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.472838+00
+Desktop Publishing,Vadodara,All,306,-20,-62,declining,0,[],f,2026-03-06 03:15:31.529791+00
+Kubernetes/Docker,Hubli,All,306,20,68,rising,0,[],f,2026-03-06 03:15:31.672543+00
+Print Media Design,Hyderabad,All,306,-13,-45,declining,0,[],f,2026-03-06 03:15:31.407662+00
+Telemarketing,Vadodara,All,306,-25,-87,declining,0,[],f,2026-03-06 03:15:31.530076+00
+Manual Bookkeeping,Nashik,All,306,-19,-59,declining,0,[],f,2026-03-06 03:15:31.498392+00
+VB.NET,Agra,All,306,-12,-39,declining,0,[],f,2026-03-06 03:15:31.7209+00
+Desktop Publishing,Jaipur,All,306,-20,-62,declining,0,[],f,2026-03-06 03:15:31.489029+00
+Legacy COBOL,Ahmedabad,All,306,-10,-30,declining,0,[],f,2026-03-06 03:15:31.449005+00
+Cold Calling,Visakhapatnam,All,305,-25,-75,declining,0,[],f,2026-03-06 03:15:31.580468+00
+Legacy COBOL,Rajkot,All,305,-6,-26,declining,0,[],f,2026-03-06 03:15:31.62505+00
+Print Media Design,Kolkata,All,304,-16,-48,declining,0,[],f,2026-03-06 03:15:31.427841+00
+Kubernetes/Docker,Chandigarh,All,304,17,65,rising,0,[],f,2026-03-06 03:15:31.556615+00
+AI-assisted Content Moderation,Agra,All,304,80,280,rising,0,[],f,2026-03-06 03:15:31.713587+00
+Copy Typing,Ahmedabad,All,304,-23,-93,declining,0,[],f,2026-03-06 03:15:31.447224+00
+Dreamweaver,Ahmedabad,All,304,-5,-20,declining,0,[],f,2026-03-06 03:15:31.450263+00
+Salesforce,Kochi,All,304,14,42,rising,3018,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.568129+00
+Voice Support,Mumbai,All,304,-30,-107,declining,0,[],f,2026-03-06 03:15:31.374054+00
+Product Management,Tiruchirappalli,All,303,18,53,rising,0,[],f,2026-03-06 03:15:31.683835+00
+Copy Typing,Mumbai,All,303,-24,-94,declining,0,[],f,2026-03-06 03:15:31.375965+00
+Cybersecurity,Indore,All,303,25,93,rising,819,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.462953+00
+Traditional SEO,Varanasi,All,303,-5,-30,declining,0,[],f,2026-03-06 03:15:31.729109+00
+Product Management,Rajkot,All,302,19,54,rising,0,[],f,2026-03-06 03:15:31.620398+00
+Copy Typing,Surat,All,302,-25,-95,declining,0,[],f,2026-03-06 03:15:31.539244+00
+VB.NET,Hubli,All,302,-15,-42,declining,0,[],f,2026-03-06 03:15:31.679089+00
+PHP Development,Bangalore,All,302,-10,-45,declining,0,[],f,2026-03-06 03:15:31.396306+00
+Cloud Computing (AWS),Indore,All,301,26,89,rising,2854,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.461416+00
+Machine Learning,Chennai,All,301,32,117,rising,412,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.411234+00
+AI Quality Review,Kolkata,All,301,37,132,rising,0,[],f,2026-03-06 03:15:31.420552+00
+Machine Learning,Rajkot,All,301,30,115,rising,4101,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.61703+00
+Traditional SEO,Jaipur,All,300,-12,-37,declining,0,[],f,2026-03-06 03:15:31.488536+00
+Tally Accounting,Nagpur,All,300,-12,-42,declining,0,[],f,2026-03-06 03:15:31.456546+00
+VB.NET,Siliguri,All,300,-16,-43,declining,0,[],f,2026-03-06 03:15:31.752585+00
+Shorthand,Agra,All,300,-26,-101,declining,0,[],f,2026-03-06 03:15:31.720652+00
+VB.NET,Nagpur,All,299,-11,-38,declining,0,[],f,2026-03-06 03:15:31.460156+00
+Product Management,Lucknow,All,299,17,52,rising,0,[],f,2026-03-06 03:15:31.505558+00
+Print Media Design,Indore,All,299,-10,-42,declining,0,[],f,2026-03-06 03:15:31.468411+00
+Basic Excel,Hyderabad,All,299,-16,-53,declining,0,[],f,2026-03-06 03:15:31.405835+00
+Python for Data,Agra,All,298,26,99,rising,4136,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.711591+00
+LLM Fine-Tuning,Ahmedabad,All,298,27,105,rising,0,[],f,2026-03-06 03:15:31.441648+00
+Cybersecurity,Nashik,All,298,31,99,rising,174,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.493511+00
+Print Media Design,Raipur,All,298,-11,-43,declining,0,[],f,2026-03-06 03:15:31.698058+00
+Cybersecurity,Dehradun,All,298,23,91,rising,4156,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.650379+00
+Blockchain,Chandigarh,All,298,15,40,rising,0,[],f,2026-03-06 03:15:31.558139+00
+DevOps/CI-CD,Dehradun,All,297,22,72,rising,1083,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.649869+00
+Traditional SEO,Thiruvananthapuram,All,297,-8,-33,declining,0,[],f,2026-03-06 03:15:31.592057+00
+Salesforce,Mangaluru,All,297,14,42,rising,1797,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.663461+00
+Data Entry,Thiruvananthapuram,All,297,-22,-77,declining,0,[],f,2026-03-06 03:15:31.58964+00
+Salesforce,Hyderabad,All,297,9,37,rising,2117,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.404611+00
+Filing/Clerical,Varanasi,All,297,-14,-61,declining,0,[],f,2026-03-06 03:15:31.730133+00
+VB.NET,Chennai,All,296,-6,-33,declining,0,[],f,2026-03-06 03:15:31.419823+00
+AI-assisted Content Moderation,Siliguri,All,295,83,283,rising,0,[],f,2026-03-06 03:15:31.745272+00
+Basic Excel,Kolkata,All,295,-10,-47,declining,0,[],f,2026-03-06 03:15:31.426152+00
+Cybersecurity,Mumbai,All,294,22,90,rising,3940,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.371206+00
+Shorthand,Visakhapatnam,All,294,-35,-110,declining,0,[],f,2026-03-06 03:15:31.583419+00
+Manual Bookkeeping,Jabalpur,All,293,-17,-57,declining,0,[],f,2026-03-06 03:15:31.739381+00
+DevOps/CI-CD,Nagpur,All,293,25,75,rising,2952,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.452315+00
+Manual Bookkeeping,Kochi,All,293,-19,-59,declining,0,[],f,2026-03-06 03:15:31.570676+00
+Natural Language Processing,Jaipur,All,292,40,128,rising,0,[],f,2026-03-06 03:15:31.483899+00
+Copy Typing,Nagpur,All,292,-30,-100,declining,0,[],f,2026-03-06 03:15:31.45727+00
+Dreamweaver,Hubli,All,292,-8,-23,declining,0,[],f,2026-03-06 03:15:31.679341+00
+AI-assisted Content Moderation,Kochi,All,292,75,275,rising,0,[],f,2026-03-06 03:15:31.566143+00
+Kubernetes/Docker,Lucknow,All,292,23,71,rising,0,[],f,2026-03-06 03:15:31.504828+00
+Product Management,Dehradun,All,292,17,52,rising,0,[],f,2026-03-06 03:15:31.652197+00
+VB.NET,Hyderabad,All,291,-8,-35,declining,0,[],f,2026-03-06 03:15:31.40968+00
+Manual Bookkeeping,Lucknow,All,291,-19,-59,declining,0,[],f,2026-03-06 03:15:31.508552+00
+Data Entry,Chandigarh,All,290,-25,-80,declining,0,[],f,2026-03-06 03:15:31.558643+00
+Data Entry,Mangaluru,All,290,-22,-77,declining,0,[],f,2026-03-06 03:15:31.664219+00
+PHP Development,Madurai,All,289,-14,-49,declining,0,[],f,2026-03-06 03:15:31.612185+00
+Data Engineering,Kolkata,All,289,23,83,rising,3286,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.423257+00
+Tableau/Power BI,Raipur,All,289,17,57,rising,4699,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.693869+00
+Cold Calling,Lucknow,All,289,-19,-69,declining,0,[],f,2026-03-06 03:15:31.508048+00
+Filing/Clerical,Jodhpur,All,288,-20,-67,declining,0,[],f,2026-03-06 03:15:31.635326+00
+React/Next.js,Bhopal,All,288,23,68,rising,4346,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.513687+00
+Basic Excel,Guwahati,All,287,-20,-57,declining,0,[],f,2026-03-06 03:15:31.706576+00
+Shorthand,Bangalore,All,286,-25,-100,declining,0,[],f,2026-03-06 03:15:31.399434+00
+Basic Excel,Vadodara,All,286,-20,-57,declining,0,[],f,2026-03-06 03:15:31.527588+00
+Cloud Computing (AWS),Delhi,All,285,21,84,rising,3635,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.380525+00
+Blockchain,Pune,All,285,11,36,rising,0,[],f,2026-03-06 03:15:31.435286+00
+Filing/Clerical,Thiruvananthapuram,All,285,-18,-65,declining,0,[],f,2026-03-06 03:15:31.593122+00
+Tally Accounting,Tiruchirappalli,All,285,-17,-47,declining,0,[],f,2026-03-06 03:15:31.685922+00
+AI Quality Review,Siliguri,All,285,42,137,rising,0,[],f,2026-03-06 03:15:31.742915+00
+Basic Excel,Coimbatore,All,285,-13,-50,declining,0,[],f,2026-03-06 03:15:31.476707+00
+React/Next.js,Surat,All,285,17,62,rising,4122,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.534325+00
+Natural Language Processing,Rajkot,All,284,38,126,rising,0,[],f,2026-03-06 03:15:31.61909+00
+Cybersecurity,Lucknow,All,284,25,93,rising,3100,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.503836+00
+Natural Language Processing,Lucknow,All,284,34,122,rising,0,[],f,2026-03-06 03:15:31.504335+00
+Agile/Scrum,Mumbai,All,283,16,46,rising,3538,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.373279+00
+AI Quality Review,Guwahati,All,283,43,138,rising,0,[],f,2026-03-06 03:15:31.700843+00
+AI-assisted Content Moderation,Indore,All,283,76,276,rising,0,[],f,2026-03-06 03:15:31.463209+00
+Network Cabling,Patna,All,283,-11,-28,declining,0,[],f,2026-03-06 03:15:31.552187+00
+Cloud Computing (AWS),Hubli,All,283,29,92,rising,4626,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.669813+00
+Legacy COBOL,Bhopal,All,282,-8,-28,declining,0,[],f,2026-03-06 03:15:31.520275+00
+Prompt Engineering,Ranchi,All,282,46,151,rising,0,[],f,2026-03-06 03:15:31.637488+00
+Manual Bookkeeping,Jodhpur,All,282,-15,-55,declining,0,[],f,2026-03-06 03:15:31.633916+00
+Cold Calling,Hubli,All,281,-23,-73,declining,0,[],f,2026-03-06 03:15:31.676035+00
+Python for Data,Mumbai,All,281,27,100,rising,1265,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.369382+00
+Cloud Computing (AWS),Jodhpur,All,281,25,88,rising,1644,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.627564+00
+Manual Testing,Mumbai,All,281,-22,-67,declining,0,[],f,2026-03-06 03:15:31.374673+00
+Blockchain,Raipur,All,281,14,39,rising,0,[],f,2026-03-06 03:15:31.695148+00
+Telemarketing,Ranchi,All,280,-22,-84,declining,0,[],f,2026-03-06 03:15:31.64596+00
+Salesforce,Vadodara,All,280,11,39,rising,3906,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.526307+00
+PHP Development,Delhi,All,280,-10,-45,declining,0,[],f,2026-03-06 03:15:31.386158+00
+UI/UX Design,Surat,All,279,13,51,rising,3954,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.536101+00
+Data Entry,Bangalore,All,279,-20,-75,declining,0,[],f,2026-03-06 03:15:31.395334+00
+Voice Support,Guwahati,All,279,-29,-106,declining,0,[],f,2026-03-06 03:15:31.705801+00
+PHP Development,Nagpur,All,279,-17,-52,declining,0,[],f,2026-03-06 03:15:31.456781+00
+Manual Testing,Raipur,All,278,-15,-60,declining,0,[],f,2026-03-06 03:15:31.6959+00
+Data Engineering,Agra,All,278,27,87,rising,1347,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.714082+00
+Print Media Design,Nagpur,All,278,-13,-45,declining,0,[],f,2026-03-06 03:15:31.457993+00
+Desktop Publishing,Hyderabad,All,278,-17,-59,declining,0,[],f,2026-03-06 03:15:31.407893+00
+Manual Bookkeeping,Ranchi,All,278,-15,-55,declining,0,[],f,2026-03-06 03:15:31.644955+00
+Computer Vision,Madurai,All,278,24,79,rising,0,[],f,2026-03-06 03:15:31.607118+00
+Cloud Computing (AWS),Pune,All,277,21,84,rising,2669,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.431031+00
+Prompt Engineering,Bhopal,All,276,46,151,rising,0,[],f,2026-03-06 03:15:31.511705+00
+Print Media Design,Jabalpur,All,276,-8,-40,declining,0,[],f,2026-03-06 03:15:31.739937+00
+Cybersecurity,Siliguri,All,276,27,95,rising,4790,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.745031+00
+Cybersecurity,Vadodara,All,275,24,92,rising,2956,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.523962+00
+Manual Bookkeeping,Mysuru,All,274,-16,-56,declining,0,[],f,2026-03-06 03:15:31.60227+00
+Traditional SEO,Jodhpur,All,273,-13,-38,declining,0,[],f,2026-03-06 03:15:31.634197+00
+Manual Bookkeeping,Nagpur,All,273,-16,-56,declining,0,[],f,2026-03-06 03:15:31.457517+00
+AI Quality Review,Mumbai,All,272,37,132,rising,0,[],f,2026-03-06 03:15:31.369113+00
+React/Next.js,Pune,All,272,16,61,rising,1408,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.432335+00
+PHP Development,Jabalpur,All,271,-9,-44,declining,0,[],f,2026-03-06 03:15:31.738591+00
+Prompt Engineering,Nashik,All,271,47,152,rising,0,[],f,2026-03-06 03:15:31.491292+00
+Computer Vision,Agra,All,271,26,81,rising,0,[],f,2026-03-06 03:15:31.712566+00
+React/Next.js,Mangaluru,All,271,23,68,rising,3493,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.660777+00
+React/Next.js,Chandigarh,All,270,23,68,rising,1582,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.555257+00
+React/Next.js,Hyderabad,All,270,21,66,rising,2837,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.402179+00
+Network Cabling,Coimbatore,All,269,-3,-20,declining,0,[],f,2026-03-06 03:15:31.480047+00
+Python for Data,Ahmedabad,All,269,34,107,rising,619,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.440896+00
+AI-assisted Content Moderation,Nashik,All,268,81,281,rising,0,[],f,2026-03-06 03:15:31.493906+00
+Telemarketing,Chennai,All,268,-24,-86,declining,0,[],f,2026-03-06 03:15:31.418308+00
+Traditional SEO,Indore,All,268,-12,-37,declining,0,[],f,2026-03-06 03:15:31.468153+00
+Salesforce,Varanasi,All,267,6,34,rising,405,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.726293+00
+Agile/Scrum,Mysuru,All,267,17,47,rising,1684,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.599331+00
+Shorthand,Raipur,All,267,-26,-101,declining,0,[],f,2026-03-06 03:15:31.699879+00
+LLM Fine-Tuning,Coimbatore,All,267,30,108,rising,0,[],f,2026-03-06 03:15:31.472112+00
+Network Cabling,Indore,All,266,-3,-20,declining,0,[],f,2026-03-06 03:15:31.469905+00
+Computer Vision,Chandigarh,All,266,18,73,rising,0,[],f,2026-03-06 03:15:31.554718+00
+Cybersecurity,Kochi,All,266,32,100,rising,2609,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.565861+00
+Data Entry,Bhopal,All,266,-27,-82,declining,0,[],f,2026-03-06 03:15:31.516901+00
+Data Engineering,Lucknow,All,266,23,83,rising,2558,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.504579+00
+Traditional SEO,Hubli,All,265,-8,-33,declining,0,[],f,2026-03-06 03:15:31.676812+00
+Python for Data,Visakhapatnam,All,265,25,98,rising,3945,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.574283+00
+AI Quality Review,Chennai,All,265,34,129,rising,0,[],f,2026-03-06 03:15:31.410483+00
+Prompt Engineering,Jodhpur,All,265,39,144,rising,0,[],f,2026-03-06 03:15:31.626743+00
+Data Engineering,Jaipur,All,264,20,80,rising,3440,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.484164+00
+Agile/Scrum,Kolkata,All,264,14,44,rising,2481,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.424637+00
+VB.NET,Visakhapatnam,All,263,-8,-35,declining,0,[],f,2026-03-06 03:15:31.58369+00
+UI/UX Design,Jodhpur,All,263,12,50,rising,4816,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.630525+00
+Desktop Publishing,Ahmedabad,All,262,-20,-62,declining,0,[],f,2026-03-06 03:15:31.44823+00
+Kubernetes/Docker,Madurai,All,262,17,65,rising,0,[],f,2026-03-06 03:15:31.609102+00
+Python for Data,Jabalpur,All,262,31,104,rising,4468,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.732383+00
+Cold Calling,Siliguri,All,262,-15,-65,declining,0,[],f,2026-03-06 03:15:31.749326+00
+AI-assisted Content Moderation,Madurai,All,261,81,281,rising,0,[],f,2026-03-06 03:15:31.608185+00
+Manual Testing,Guwahati,All,261,-20,-65,declining,0,[],f,2026-03-06 03:15:31.706301+00
+Kubernetes/Docker,Rajkot,All,260,14,62,rising,0,[],f,2026-03-06 03:15:31.619614+00
+Tableau/Power BI,Nashik,All,260,19,59,rising,336,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.494955+00
+Copy Typing,Coimbatore,All,259,-24,-94,declining,0,[],f,2026-03-06 03:15:31.477735+00
+Data Entry,Mysuru,All,259,-17,-72,declining,0,[],f,2026-03-06 03:15:31.600435+00
+Product Management,Mysuru,All,259,10,45,rising,0,[],f,2026-03-06 03:15:31.599083+00
+Salesforce,Surat,All,259,13,41,rising,2355,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.536896+00
+Cybersecurity,Jaipur,All,259,22,90,rising,1749,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.483395+00
+Manual Bookkeeping,Kolkata,All,258,-19,-59,declining,0,[],f,2026-03-06 03:15:31.427362+00
+Manual Bookkeeping,Varanasi,All,257,-12,-52,declining,0,[],f,2026-03-06 03:15:31.728851+00
+DevOps/CI-CD,Kochi,All,257,25,75,rising,2705,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.565341+00
+Tableau/Power BI,Varanasi,All,257,14,54,rising,1010,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.72521+00
+Copy Typing,Tiruchirappalli,All,256,-23,-93,declining,0,[],f,2026-03-06 03:15:31.686691+00
+Cold Calling,Rajkot,All,256,-22,-72,declining,0,[],f,2026-03-06 03:15:31.622996+00
+Legacy COBOL,Hyderabad,All,256,-11,-31,declining,0,[],f,2026-03-06 03:15:31.408615+00
+VB.NET,Surat,All,256,-7,-34,declining,0,[],f,2026-03-06 03:15:31.542041+00
+AI Quality Review,Bangalore,All,256,39,134,rising,0,[],f,2026-03-06 03:15:31.3901+00
+Python for Data,Chandigarh,All,255,26,99,rising,3798,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.553664+00
+VB.NET,Ranchi,All,255,-16,-43,declining,0,[],f,2026-03-06 03:15:31.647456+00
+AI-assisted Content Moderation,Jodhpur,All,255,78,278,rising,0,[],f,2026-03-06 03:15:31.629308+00
+VB.NET,Raipur,All,255,-6,-33,declining,0,[],f,2026-03-06 03:15:31.700104+00
+Salesforce,Tiruchirappalli,All,254,6,34,rising,2506,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.684363+00
+UI/UX Design,Tiruchirappalli,All,254,10,48,rising,2995,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.683598+00
+Cloud Computing (AWS),Ahmedabad,All,254,23,86,rising,2787,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.441161+00
+Kubernetes/Docker,Jabalpur,All,254,23,71,rising,0,[],f,2026-03-06 03:15:31.735388+00
+Hardware Troubleshooting,Nagpur,All,254,-10,-32,declining,0,[],f,2026-03-06 03:15:31.459379+00
+PHP Development,Mysuru,All,254,-17,-52,declining,0,[],f,2026-03-06 03:15:31.60147+00
+Cold Calling,Jaipur,All,254,-17,-67,declining,0,[],f,2026-03-06 03:15:31.487784+00
+Tableau/Power BI,Visakhapatnam,All,253,12,52,rising,476,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.577387+00
+Machine Learning,Surat,All,253,30,115,rising,1771,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.533302+00
+Data Entry,Varanasi,All,253,-27,-82,declining,0,[],f,2026-03-06 03:15:31.727054+00
+LLM Fine-Tuning,Tiruchirappalli,All,253,35,113,rising,0,[],f,2026-03-06 03:15:31.681003+00
+Hardware Troubleshooting,Jabalpur,All,252,-11,-33,declining,0,[],f,2026-03-06 03:15:31.741278+00
+Network Cabling,Ranchi,All,252,-12,-29,declining,0,[],f,2026-03-06 03:15:31.646948+00
+Network Cabling,Varanasi,All,252,-2,-19,declining,0,[],f,2026-03-06 03:15:31.730873+00
+Product Management,Madurai,All,252,15,50,rising,0,[],f,2026-03-06 03:15:31.60989+00
+Blockchain,Coimbatore,All,252,14,39,rising,0,[],f,2026-03-06 03:15:31.47556+00
+Copy Typing,Delhi,All,251,-31,-101,declining,0,[],f,2026-03-06 03:15:31.386621+00
+Basic Excel,Mumbai,All,251,-15,-52,declining,0,[],f,2026-03-06 03:15:31.374925+00
+Agile/Scrum,Delhi,All,251,8,38,rising,4688,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.384178+00
+Natural Language Processing,Chandigarh,All,251,33,121,rising,0,[],f,2026-03-06 03:15:31.556124+00
+Salesforce,Guwahati,All,251,14,42,rising,643,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.705281+00
+Data Engineering,Coimbatore,All,251,23,83,rising,1714,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.473793+00
+LLM Fine-Tuning,Agra,All,250,32,110,rising,0,[],f,2026-03-06 03:15:31.712316+00
+Copy Typing,Guwahati,All,250,-31,-101,declining,0,[],f,2026-03-06 03:15:31.707841+00
+Network Cabling,Mumbai,All,249,-3,-20,declining,0,[],f,2026-03-06 03:15:31.378737+00
+Blockchain,Jaipur,All,249,13,38,rising,0,[],f,2026-03-06 03:15:31.486045+00
+Salesforce,Dehradun,All,249,11,39,rising,3326,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.652723+00
+Tableau/Power BI,Surat,All,249,11,51,rising,1143,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.53585+00
+Machine Learning,Mumbai,All,249,37,122,rising,3277,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.369895+00
+Filing/Clerical,Chandigarh,All,249,-18,-65,declining,0,[],f,2026-03-06 03:15:31.561729+00
+Tableau/Power BI,Vadodara,All,249,18,58,rising,4931,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.525224+00
+Salesforce,Raipur,All,248,15,43,rising,4666,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.694902+00
+Computer Vision,Ahmedabad,All,248,25,80,rising,0,[],f,2026-03-06 03:15:31.441891+00
+Telemarketing,Mangaluru,All,247,-23,-85,declining,0,[],f,2026-03-06 03:15:31.667066+00
+Hardware Troubleshooting,Chennai,All,247,-13,-35,declining,0,[],f,2026-03-06 03:15:31.419065+00
+PHP Development,Jaipur,All,246,-11,-46,declining,0,[],f,2026-03-06 03:15:31.487536+00
+Tableau/Power BI,Ahmedabad,All,245,16,56,rising,708,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.444009+00
+AI Quality Review,Madurai,All,244,37,132,rising,0,[],f,2026-03-06 03:15:31.605822+00
+VB.NET,Lucknow,All,243,-6,-33,declining,0,[],f,2026-03-06 03:15:31.511066+00
+Desktop Publishing,Kolkata,All,243,-14,-56,declining,0,[],f,2026-03-06 03:15:31.428083+00
+AI-assisted Content Moderation,Lucknow,All,243,81,281,rising,0,[],f,2026-03-06 03:15:31.504081+00
+AI-assisted Content Moderation,Bhopal,All,243,78,278,rising,0,[],f,2026-03-06 03:15:31.514215+00
+Data Entry,Patna,All,243,-24,-79,declining,0,[],f,2026-03-06 03:15:31.548194+00
+Blockchain,Rajkot,All,243,8,33,rising,0,[],f,2026-03-06 03:15:31.621176+00
+AI-assisted Content Moderation,Pune,All,243,80,280,rising,0,[],f,2026-03-06 03:15:31.432889+00
+Cloud Computing (AWS),Lucknow,All,242,22,85,rising,886,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.50218+00
+Manual Bookkeeping,Bangalore,All,242,-18,-58,declining,0,[],f,2026-03-06 03:15:31.397059+00
+Dreamweaver,Kolkata,All,242,-8,-23,declining,0,[],f,2026-03-06 03:15:31.430067+00
+Blockchain,Indore,All,242,10,35,rising,0,[],f,2026-03-06 03:15:31.465542+00
+LLM Fine-Tuning,Thiruvananthapuram,All,240,27,105,rising,0,[],f,2026-03-06 03:15:31.585565+00
+Copy Typing,Indore,All,240,-25,-95,declining,0,[],f,2026-03-06 03:15:31.467663+00
+Filing/Clerical,Nagpur,All,240,-24,-71,declining,0,[],f,2026-03-06 03:15:31.458738+00
+Salesforce,Siliguri,All,239,8,36,rising,557,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.747259+00
+Hardware Troubleshooting,Bangalore,All,239,-6,-28,declining,0,[],f,2026-03-06 03:15:31.398923+00
+Filing/Clerical,Chennai,All,239,-24,-71,declining,0,[],f,2026-03-06 03:15:31.418565+00
+Computer Vision,Jodhpur,All,239,17,72,rising,0,[],f,2026-03-06 03:15:31.628325+00
+DevOps/CI-CD,Patna,All,238,17,67,rising,3081,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.544498+00
+VB.NET,Pune,All,238,-8,-35,declining,0,[],f,2026-03-06 03:15:31.439939+00
+Legacy COBOL,Raipur,All,237,-12,-32,declining,0,[],f,2026-03-06 03:15:31.699078+00
+LLM Fine-Tuning,Madurai,All,237,34,112,rising,0,[],f,2026-03-06 03:15:31.606868+00
+Hardware Troubleshooting,Kochi,All,237,-4,-26,declining,0,[],f,2026-03-06 03:15:31.572421+00
+Telemarketing,Kochi,All,237,-29,-91,declining,0,[],f,2026-03-06 03:15:31.571662+00
+Copy Typing,Madurai,All,236,-29,-99,declining,0,[],f,2026-03-06 03:15:31.612684+00
+Desktop Publishing,Thiruvananthapuram,All,236,-20,-62,declining,0,[],f,2026-03-06 03:15:31.592582+00
+Network Cabling,Bhopal,All,235,-10,-27,declining,0,[],f,2026-03-06 03:15:31.520766+00
+Computer Vision,Coimbatore,All,235,19,74,rising,0,[],f,2026-03-06 03:15:31.472364+00
+Desktop Publishing,Dehradun,All,235,-20,-62,declining,0,[],f,2026-03-06 03:15:31.656195+00
+Shorthand,Kolkata,All,235,-26,-101,declining,0,[],f,2026-03-06 03:15:31.429551+00
+Desktop Publishing,Visakhapatnam,All,235,-13,-55,declining,0,[],f,2026-03-06 03:15:31.581843+00
+UI/UX Design,Jaipur,All,234,14,52,rising,4435,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.485032+00
+Kubernetes/Docker,Nagpur,All,234,16,64,rising,0,[],f,2026-03-06 03:15:31.453839+00
+Voice Support,Kochi,All,233,-31,-108,declining,0,[],f,2026-03-06 03:15:31.568608+00
+Kubernetes/Docker,Kochi,All,232,15,63,rising,0,[],f,2026-03-06 03:15:31.566882+00
+Telemarketing,Hyderabad,All,232,-21,-83,declining,0,[],f,2026-03-06 03:15:31.408135+00
+Python for Data,Dehradun,All,232,24,97,rising,2900,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.648474+00
+UI/UX Design,Bangalore,All,231,17,55,rising,249,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.393784+00
+LLM Fine-Tuning,Kochi,All,231,36,114,rising,0,[],f,2026-03-06 03:15:31.564842+00
+Cybersecurity,Jabalpur,All,231,30,98,rising,3739,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.734329+00
+Data Entry,Lucknow,All,231,-26,-81,declining,0,[],f,2026-03-06 03:15:31.506819+00
+AI-assisted Content Moderation,Coimbatore,All,231,82,282,rising,0,[],f,2026-03-06 03:15:31.473326+00
+Hardware Troubleshooting,Hyderabad,All,230,-8,-30,declining,0,[],f,2026-03-06 03:15:31.408855+00
+Tableau/Power BI,Bhopal,All,230,14,54,rising,1230,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.515202+00
+Prompt Engineering,Coimbatore,All,230,38,143,rising,0,[],f,2026-03-06 03:15:31.470899+00
+AI Quality Review,Hyderabad,All,230,34,129,rising,0,[],f,2026-03-06 03:15:31.400386+00
+LLM Fine-Tuning,Kolkata,All,230,26,104,rising,0,[],f,2026-03-06 03:15:31.421525+00
+Cybersecurity,Guwahati,All,230,31,99,rising,509,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.702975+00
+Filing/Clerical,Ranchi,All,229,-16,-63,declining,0,[],f,2026-03-06 03:15:31.646201+00
+Tally Accounting,Vadodara,All,229,-9,-39,declining,0,[],f,2026-03-06 03:15:31.527829+00
+Print Media Design,Mangaluru,All,229,-16,-48,declining,0,[],f,2026-03-06 03:15:31.666571+00
+Traditional SEO,Hyderabad,All,228,-10,-35,declining,0,[],f,2026-03-06 03:15:31.407407+00
+React/Next.js,Guwahati,All,228,21,66,rising,4861,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.702703+00
+Machine Learning,Indore,All,228,31,116,rising,219,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.461672+00
+Machine Learning,Tiruchirappalli,All,228,29,114,rising,3303,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.680727+00
+Salesforce,Jodhpur,All,228,6,34,rising,1518,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.631297+00
+Hardware Troubleshooting,Jodhpur,All,227,-5,-27,declining,0,[],f,2026-03-06 03:15:31.636045+00
+Cybersecurity,Madurai,All,227,28,96,rising,3336,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.607924+00
+Tableau/Power BI,Patna,All,227,12,52,rising,1617,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.54629+00
+React/Next.js,Mumbai,All,227,18,63,rising,3682,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.370918+00
+Cold Calling,Varanasi,All,226,-17,-67,declining,0,[],f,2026-03-06 03:15:31.728354+00
+Data Engineering,Patna,All,226,24,84,rising,967,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.545753+00
+Network Cabling,Delhi,All,226,-3,-20,declining,0,[],f,2026-03-06 03:15:31.388848+00
+Desktop Publishing,Guwahati,All,226,-14,-56,declining,0,[],f,2026-03-06 03:15:31.708858+00
+AI-assisted Content Moderation,Hyderabad,All,226,80,280,rising,0,[],f,2026-03-06 03:15:31.402663+00
+Python for Data,Nagpur,All,224,28,101,rising,1730,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.451114+00
+Machine Learning,Siliguri,All,223,39,124,rising,2494,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.743778+00
+Kubernetes/Docker,Coimbatore,All,223,16,64,rising,0,[],f,2026-03-06 03:15:31.474056+00
+Product Management,Visakhapatnam,All,223,11,46,rising,0,[],f,2026-03-06 03:15:31.577915+00
+Manual Bookkeeping,Indore,All,222,-21,-61,declining,0,[],f,2026-03-06 03:15:31.467913+00
+Voice Support,Agra,All,221,-36,-113,declining,0,[],f,2026-03-06 03:15:31.716318+00
+Filing/Clerical,Mumbai,All,221,-14,-61,declining,0,[],f,2026-03-06 03:15:31.377667+00
+Agile/Scrum,Chandigarh,All,220,15,45,rising,1618,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.557625+00
+Agile/Scrum,Visakhapatnam,All,220,17,47,rising,406,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.578174+00
+Blockchain,Mangaluru,All,220,15,40,rising,0,[],f,2026-03-06 03:15:31.663712+00
+React/Next.js,Thiruvananthapuram,All,220,14,59,rising,4563,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.586377+00
+Agile/Scrum,Bangalore,All,220,8,38,rising,2467,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.3943+00
+Shorthand,Dehradun,All,219,-28,-103,declining,0,[],f,2026-03-06 03:15:31.657818+00
+Python for Data,Pune,All,219,32,105,rising,152,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.430786+00
+Basic Excel,Kochi,All,218,-12,-49,declining,0,[],f,2026-03-06 03:15:31.569412+00
+Salesforce,Lucknow,All,218,15,43,rising,365,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.506054+00
+Prompt Engineering,Hyderabad,All,218,43,148,rising,0,[],f,2026-03-06 03:15:31.400162+00
+Computer Vision,Bhopal,All,218,18,73,rising,0,[],f,2026-03-06 03:15:31.513185+00
+UI/UX Design,Dehradun,All,218,16,54,rising,1022,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.651928+00
+PHP Development,Patna,All,217,-17,-52,declining,0,[],f,2026-03-06 03:15:31.549424+00
+Kubernetes/Docker,Mangaluru,All,217,15,63,rising,0,[],f,2026-03-06 03:15:31.662056+00
+Manual Bookkeeping,Bhopal,All,216,-12,-52,declining,0,[],f,2026-03-06 03:15:31.518644+00
+VB.NET,Jabalpur,All,216,-15,-42,declining,0,[],f,2026-03-06 03:15:31.742027+00
+Computer Vision,Patna,All,216,24,79,rising,0,[],f,2026-03-06 03:15:31.544199+00
+Dreamweaver,Indore,All,216,-2,-17,declining,0,[],f,2026-03-06 03:15:31.470659+00
+Salesforce,Ranchi,All,215,16,44,rising,1074,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.642206+00
+Salesforce,Nagpur,All,215,16,44,rising,2145,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.455068+00
+Prompt Engineering,Chennai,All,215,44,149,rising,0,[],f,2026-03-06 03:15:31.410232+00
+Copy Typing,Chennai,All,214,-29,-99,declining,0,[],f,2026-03-06 03:15:31.417026+00
+AI-assisted Content Moderation,Varanasi,All,213,83,283,rising,0,[],f,2026-03-06 03:15:31.723995+00
+Prompt Engineering,Siliguri,All,213,43,148,rising,0,[],f,2026-03-06 03:15:31.742523+00
+React/Next.js,Rajkot,All,213,18,63,rising,4184,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.618247+00
+AI Quality Review,Indore,All,213,36,131,rising,0,[],f,2026-03-06 03:15:31.460927+00
+Dreamweaver,Jabalpur,All,212,-5,-20,declining,0,[],f,2026-03-06 03:15:31.742275+00
+Python for Data,Bangalore,All,212,29,102,rising,1228,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.390481+00
+Traditional SEO,Nagpur,All,212,-15,-40,declining,0,[],f,2026-03-06 03:15:31.457755+00
+Voice Support,Lucknow,All,212,-33,-110,declining,0,[],f,2026-03-06 03:15:31.506556+00
+Hardware Troubleshooting,Surat,All,212,-5,-27,declining,0,[],f,2026-03-06 03:15:31.541292+00
+Telemarketing,Patna,All,211,-22,-84,declining,0,[],f,2026-03-06 03:15:31.551169+00
+AI-assisted Content Moderation,Chandigarh,All,210,77,277,rising,0,[],f,2026-03-06 03:15:31.555874+00
+Machine Learning,Kochi,All,210,38,123,rising,1471,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.564593+00
+Manual Testing,Tiruchirappalli,All,208,-20,-65,declining,0,[],f,2026-03-06 03:15:31.685389+00
+Kubernetes/Docker,Chennai,All,208,22,70,rising,0,[],f,2026-03-06 03:15:31.41348+00
+VB.NET,Bangalore,All,207,-9,-36,declining,0,[],f,2026-03-06 03:15:31.399677+00
+Manual Testing,Hyderabad,All,207,-21,-66,declining,0,[],f,2026-03-06 03:15:31.405594+00
+Dreamweaver,Mangaluru,All,207,-4,-19,declining,0,[],f,2026-03-06 03:15:31.668801+00
+Print Media Design,Siliguri,All,207,-18,-50,declining,0,[],f,2026-03-06 03:15:31.750358+00
+Kubernetes/Docker,Ahmedabad,All,206,19,67,rising,0,[],f,2026-03-06 03:15:31.443754+00
+Manual Bookkeeping,Ahmedabad,All,206,-21,-61,declining,0,[],f,2026-03-06 03:15:31.447484+00
+AI-assisted Content Moderation,Surat,All,205,77,277,rising,0,[],f,2026-03-06 03:15:31.534829+00
+Python for Data,Lucknow,All,205,33,106,rising,4475,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.501882+00
+Data Engineering,Guwahati,All,205,25,85,rising,2616,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.703729+00
+AI Quality Review,Nagpur,All,205,42,137,rising,0,[],f,2026-03-06 03:15:31.450876+00
+Traditional SEO,Kochi,All,204,-6,-31,declining,0,[],f,2026-03-06 03:15:31.570927+00
+Shorthand,Mumbai,All,204,-34,-109,declining,0,[],f,2026-03-06 03:15:31.378992+00
+Telemarketing,Delhi,All,204,-28,-90,declining,0,[],f,2026-03-06 03:15:31.387857+00
+Data Engineering,Pune,All,204,19,79,rising,4932,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.43351+00
+Basic Excel,Delhi,All,203,-16,-53,declining,0,[],f,2026-03-06 03:15:31.385638+00
+Print Media Design,Coimbatore,All,203,-11,-43,declining,0,[],f,2026-03-06 03:15:31.478536+00
+Kubernetes/Docker,Patna,All,202,22,70,rising,0,[],f,2026-03-06 03:15:31.546039+00
+Manual Testing,Pune,All,201,-14,-59,declining,0,[],f,2026-03-06 03:15:31.436035+00
+Telemarketing,Chandigarh,All,201,-22,-84,declining,0,[],f,2026-03-06 03:15:31.56147+00
+Desktop Publishing,Kochi,All,200,-21,-63,declining,0,[],f,2026-03-06 03:15:31.571416+00
+Data Entry,Siliguri,All,200,-26,-81,declining,0,[],f,2026-03-06 03:15:31.748023+00
+React/Next.js,Bangalore,All,199,13,58,rising,3344,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.392007+00
+AI Quality Review,Delhi,All,198,34,129,rising,0,[],f,2026-03-06 03:15:31.380034+00
+Computer Vision,Varanasi,All,198,17,72,rising,0,[],f,2026-03-06 03:15:31.722955+00
+Cloud Computing (AWS),Mumbai,All,197,27,90,rising,1967,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.369647+00
+Agile/Scrum,Indore,All,196,10,40,rising,2097,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.46503+00
+React/Next.js,Delhi,All,196,16,61,rising,2186,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.38178+00
+AI Quality Review,Jaipur,All,196,37,132,rising,0,[],f,2026-03-06 03:15:31.481347+00
+Cold Calling,Dehradun,All,195,-23,-73,declining,0,[],f,2026-03-06 03:15:31.654868+00
+Dreamweaver,Dehradun,All,195,-10,-25,declining,0,[],f,2026-03-06 03:15:31.658336+00
+Print Media Design,Ahmedabad,All,194,-16,-48,declining,0,[],f,2026-03-06 03:15:31.447975+00
+Prompt Engineering,Thiruvananthapuram,All,194,42,147,rising,0,[],f,2026-03-06 03:15:31.58419+00
+AI Quality Review,Dehradun,All,194,42,137,rising,0,[],f,2026-03-06 03:15:31.648221+00
+Shorthand,Hubli,All,192,-32,-107,declining,0,[],f,2026-03-06 03:15:31.678827+00
+Salesforce,Patna,All,192,6,34,rising,2524,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.547431+00
+Voice Support,Hubli,All,192,-34,-111,declining,0,[],f,2026-03-06 03:15:31.674489+00
+Cloud Computing (AWS),Hyderabad,All,192,21,84,rising,2190,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.400923+00
+Tableau/Power BI,Mangaluru,All,192,15,55,rising,4613,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.662305+00
+Telemarketing,Bhopal,All,192,-25,-87,declining,0,[],f,2026-03-06 03:15:31.519622+00
+PHP Development,Coimbatore,All,191,-9,-44,declining,0,[],f,2026-03-06 03:15:31.477234+00
+Data Engineering,Siliguri,All,191,21,81,rising,3627,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.745777+00
+DevOps/CI-CD,Delhi,All,190,15,65,rising,4977,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.381536+00
+Hardware Troubleshooting,Lucknow,All,190,-13,-35,declining,0,[],f,2026-03-06 03:15:31.510316+00
+Natural Language Processing,Siliguri,All,189,36,124,rising,0,[],f,2026-03-06 03:15:31.745522+00
+VB.NET,Mumbai,All,189,-9,-36,declining,0,[],f,2026-03-06 03:15:31.379258+00
+Shorthand,Varanasi,All,189,-33,-108,declining,0,[],f,2026-03-06 03:15:31.731126+00
+Tally Accounting,Indore,All,189,-11,-41,declining,0,[],f,2026-03-06 03:15:31.466803+00
+Legacy COBOL,Mangaluru,All,189,-13,-33,declining,0,[],f,2026-03-06 03:15:31.667554+00
+Salesforce,Indore,All,189,14,42,rising,202,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.465277+00
+Filing/Clerical,Ahmedabad,All,188,-21,-68,declining,0,[],f,2026-03-06 03:15:31.448759+00
+AI-assisted Content Moderation,Rajkot,All,188,84,284,rising,0,[],f,2026-03-06 03:15:31.618747+00
+Manual Bookkeeping,Dehradun,All,188,-19,-59,declining,0,[],f,2026-03-06 03:15:31.655431+00
+Cloud Computing (AWS),Patna,All,188,25,88,rising,3295,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.543352+00
+Agile/Scrum,Dehradun,All,188,11,41,rising,4789,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.65246+00
+Dreamweaver,Mumbai,All,188,-7,-22,declining,0,[],f,2026-03-06 03:15:31.379541+00
+Desktop Publishing,Jabalpur,All,188,-20,-62,declining,0,[],f,2026-03-06 03:15:31.740204+00
+Natural Language Processing,Ahmedabad,All,187,31,119,rising,0,[],f,2026-03-06 03:15:31.443265+00
+Salesforce,Madurai,All,186,8,36,rising,4455,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.610404+00
+Blockchain,Kolkata,All,186,7,32,rising,0,[],f,2026-03-06 03:15:31.425139+00
+Tally Accounting,Delhi,All,186,-12,-42,declining,0,[],f,2026-03-06 03:15:31.385896+00
+Product Management,Thiruvananthapuram,All,185,11,46,rising,0,[],f,2026-03-06 03:15:31.588395+00
+UI/UX Design,Kolkata,All,185,18,56,rising,493,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.423985+00
+React/Next.js,Jodhpur,All,185,16,61,rising,3473,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.62881+00
+Network Cabling,Kochi,All,185,-5,-22,declining,0,[],f,2026-03-06 03:15:31.572674+00
+Machine Learning,Visakhapatnam,All,185,31,116,rising,4175,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.574787+00
+Prompt Engineering,Raipur,All,184,40,145,rising,0,[],f,2026-03-06 03:15:31.690185+00
+Python for Data,Bhopal,All,184,28,101,rising,4463,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.512205+00
+Cloud Computing (AWS),Chandigarh,All,184,29,92,rising,2319,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.553917+00
+Agile/Scrum,Guwahati,All,184,8,38,rising,2436,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.705011+00
+Natural Language Processing,Mangaluru,All,184,37,125,rising,0,[],f,2026-03-06 03:15:31.66155+00
+Manual Bookkeeping,Chandigarh,All,183,-20,-60,declining,0,[],f,2026-03-06 03:15:31.560475+00
+Tally Accounting,Bangalore,All,183,-14,-44,declining,0,[],f,2026-03-06 03:15:31.396058+00
+Manual Testing,Nashik,All,183,-20,-65,declining,0,[],f,2026-03-06 03:15:31.496903+00
+Computer Vision,Dehradun,All,183,24,79,rising,0,[],f,2026-03-06 03:15:31.64961+00
+Print Media Design,Delhi,All,183,-11,-43,declining,0,[],f,2026-03-06 03:15:31.387339+00
+Data Engineering,Ranchi,All,183,20,80,rising,3689,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.640707+00
+React/Next.js,Patna,All,183,18,63,rising,3015,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.544754+00
+Filing/Clerical,Jaipur,All,182,-24,-71,declining,0,[],f,2026-03-06 03:15:31.489529+00
+Dreamweaver,Patna,All,182,-10,-25,declining,0,[],f,2026-03-06 03:15:31.552918+00
+Filing/Clerical,Kolkata,All,182,-18,-65,declining,0,[],f,2026-03-06 03:15:31.428578+00
+Agile/Scrum,Chennai,All,181,14,44,rising,4708,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.414476+00
+Python for Data,Delhi,All,181,30,103,rising,2676,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.380284+00
+Machine Learning,Ranchi,All,180,31,116,rising,2190,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.638575+00
+Traditional SEO,Nashik,All,180,-10,-35,declining,0,[],f,2026-03-06 03:15:31.498637+00
+UI/UX Design,Raipur,All,179,14,52,rising,4972,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.694123+00
+Data Entry,Pune,All,179,-25,-80,declining,0,[],f,2026-03-06 03:15:31.435777+00
+Shorthand,Ranchi,All,179,-29,-104,declining,0,[],f,2026-03-06 03:15:31.647193+00
+Prompt Engineering,Tiruchirappalli,All,179,42,147,rising,0,[],f,2026-03-06 03:15:31.679584+00
+Kubernetes/Docker,Ranchi,All,178,16,64,rising,0,[],f,2026-03-06 03:15:31.640951+00
+Telemarketing,Madurai,All,178,-27,-89,declining,0,[],f,2026-03-06 03:15:31.613945+00
+Machine Learning,Pune,All,178,35,120,rising,1660,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.431281+00
+Natural Language Processing,Kolkata,All,177,30,118,rising,0,[],f,2026-03-06 03:15:31.423005+00
+Agile/Scrum,Nashik,All,177,8,38,rising,3928,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.495684+00
+Tableau/Power BI,Jabalpur,All,177,13,53,rising,2447,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.735651+00
+Machine Learning,Mysuru,All,177,37,122,rising,1997,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.595953+00
+DevOps/CI-CD,Bangalore,All,176,16,66,rising,4424,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.391774+00
+Manual Testing,Varanasi,All,176,-16,-61,declining,0,[],f,2026-03-06 03:15:31.727322+00
+Manual Bookkeeping,Chennai,All,176,-14,-54,declining,0,[],f,2026-03-06 03:15:31.417308+00
+Tableau/Power BI,Rajkot,All,176,17,57,rising,1550,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.619874+00
+DevOps/CI-CD,Bhopal,All,176,25,75,rising,303,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.513433+00
+React/Next.js,Chennai,All,175,17,62,rising,4905,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.412264+00
+React/Next.js,Ranchi,All,175,22,67,rising,3428,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.639643+00
+Cybersecurity,Jodhpur,All,175,28,96,rising,2916,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.629055+00
+Python for Data,Surat,All,175,33,106,rising,3458,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.532799+00
+Cold Calling,Guwahati,All,175,-20,-70,declining,0,[],f,2026-03-06 03:15:31.70749+00
+Data Entry,Jaipur,All,174,-20,-75,declining,0,[],f,2026-03-06 03:15:31.486556+00
+Product Management,Hyderabad,All,173,14,49,rising,0,[],f,2026-03-06 03:15:31.404114+00
+Tableau/Power BI,Chandigarh,All,173,18,58,rising,2266,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.556869+00
+Kubernetes/Docker,Indore,All,172,24,72,rising,0,[],f,2026-03-06 03:15:31.463992+00
+Dreamweaver,Bhopal,All,172,-3,-18,declining,0,[],f,2026-03-06 03:15:31.521494+00
+LLM Fine-Tuning,Patna,All,172,28,106,rising,0,[],f,2026-03-06 03:15:31.54394+00
+Blockchain,Bhopal,All,172,7,32,rising,0,[],f,2026-03-06 03:15:31.516427+00
+Kubernetes/Docker,Surat,All,172,22,70,rising,0,[],f,2026-03-06 03:15:31.535586+00
+Telemarketing,Mumbai,All,171,-30,-92,declining,0,[],f,2026-03-06 03:15:31.377316+00
+Hardware Troubleshooting,Kolkata,All,171,-6,-28,declining,0,[],f,2026-03-06 03:15:31.429071+00
+Basic Excel,Lucknow,All,170,-17,-54,declining,0,[],f,2026-03-06 03:15:31.507305+00
+Copy Typing,Ranchi,All,170,-32,-102,declining,0,[],f,2026-03-06 03:15:31.644561+00
+Salesforce,Hubli,All,170,9,37,rising,3574,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.673893+00
+Computer Vision,Indore,All,170,26,81,rising,0,[],f,2026-03-06 03:15:31.462211+00
+Agile/Scrum,Vadodara,All,169,16,46,rising,2612,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.526046+00
+Natural Language Processing,Ranchi,All,169,38,126,rising,0,[],f,2026-03-06 03:15:31.640442+00
+DevOps/CI-CD,Jabalpur,All,168,22,72,rising,2813,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.733804+00
+Voice Support,Bhopal,All,168,-29,-106,declining,0,[],f,2026-03-06 03:15:31.516666+00
+AI Quality Review,Mysuru,All,168,39,134,rising,0,[],f,2026-03-06 03:15:31.595211+00
+Python for Data,Vadodara,All,168,29,102,rising,1259,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.522251+00
+Prompt Engineering,Jabalpur,All,166,38,143,rising,0,[],f,2026-03-06 03:15:31.731851+00
+Basic Excel,Jabalpur,All,166,-16,-53,declining,0,[],f,2026-03-06 03:15:31.738049+00
+Cold Calling,Pune,All,165,-21,-71,declining,0,[],f,2026-03-06 03:15:31.43703+00
+Network Cabling,Chennai,All,165,-12,-29,declining,0,[],f,2026-03-06 03:15:31.419327+00
+Voice Support,Indore,All,165,-35,-112,declining,0,[],f,2026-03-06 03:15:31.465813+00
+Hardware Troubleshooting,Rajkot,All,165,-11,-33,declining,0,[],f,2026-03-06 03:15:31.625306+00
+Manual Bookkeeping,Hubli,All,165,-12,-52,declining,0,[],f,2026-03-06 03:15:31.67654+00
+Desktop Publishing,Nagpur,All,165,-19,-61,declining,0,[],f,2026-03-06 03:15:31.458242+00
+Computer Vision,Delhi,All,165,27,82,rising,0,[],f,2026-03-06 03:15:31.381285+00
+Tally Accounting,Mangaluru,All,164,-14,-44,declining,0,[],f,2026-03-06 03:15:31.664998+00
+Data Entry,Indore,All,163,-23,-78,declining,0,[],f,2026-03-06 03:15:31.466067+00
+Tally Accounting,Siliguri,All,163,-13,-43,declining,0,[],f,2026-03-06 03:15:31.748799+00
+Machine Learning,Bhopal,All,163,32,117,rising,382,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.512711+00
+Python for Data,Rajkot,All,162,29,102,rising,1753,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.616508+00
+UI/UX Design,Patna,All,162,10,48,rising,870,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.546546+00
+Python for Data,Mysuru,All,161,26,99,rising,4614,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.595456+00
+Data Engineering,Hyderabad,All,161,22,82,rising,2302,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.403139+00
+Manual Bookkeeping,Patna,All,161,-14,-54,declining,0,[],f,2026-03-06 03:15:31.550153+00
+PHP Development,Pune,All,161,-9,-44,declining,0,[],f,2026-03-06 03:15:31.436796+00
+UI/UX Design,Madurai,All,161,19,57,rising,2818,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.609614+00
+Legacy COBOL,Hubli,All,161,-9,-29,declining,0,[],f,2026-03-06 03:15:31.678081+00
+React/Next.js,Kolkata,All,161,23,68,rising,1087,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.422281+00
+Filing/Clerical,Surat,All,160,-17,-64,declining,0,[],f,2026-03-06 03:15:31.540778+00
+Dreamweaver,Visakhapatnam,All,160,-3,-18,declining,0,[],f,2026-03-06 03:15:31.583938+00
+Natural Language Processing,Mumbai,All,160,40,128,rising,0,[],f,2026-03-06 03:15:31.371721+00
+PHP Development,Tiruchirappalli,All,160,-17,-52,declining,0,[],f,2026-03-06 03:15:31.686182+00
+Blockchain,Siliguri,All,159,6,31,rising,0,[],f,2026-03-06 03:15:31.747504+00
+UI/UX Design,Guwahati,All,159,20,58,rising,2084,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.704499+00
+Hardware Troubleshooting,Siliguri,All,159,-8,-30,declining,0,[],f,2026-03-06 03:15:31.751799+00
+Manual Testing,Agra,All,159,-22,-67,declining,0,[],f,2026-03-06 03:15:31.716821+00
+Prompt Engineering,Pune,All,158,39,144,rising,0,[],f,2026-03-06 03:15:31.430315+00
+LLM Fine-Tuning,Pune,All,158,32,110,rising,0,[],f,2026-03-06 03:15:31.431536+00
+UI/UX Design,Vadodara,All,158,15,53,rising,3933,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.525534+00
+DevOps/CI-CD,Varanasi,All,158,15,65,rising,466,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.723211+00
+Blockchain,Patna,All,158,6,31,rising,0,[],f,2026-03-06 03:15:31.547682+00
+Network Cabling,Pune,All,157,-2,-19,declining,0,[],f,2026-03-06 03:15:31.439462+00
+Hardware Troubleshooting,Delhi,All,157,-10,-32,declining,0,[],f,2026-03-06 03:15:31.388602+00
+Voice Support,Mangaluru,All,157,-33,-110,declining,0,[],f,2026-03-06 03:15:31.663957+00
+Machine Learning,Lucknow,All,156,34,119,rising,439,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.502441+00
+Data Engineering,Chennai,All,156,21,81,rising,1173,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.413226+00
+Salesforce,Bhopal,All,156,8,36,rising,501,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.516172+00
+Product Management,Hubli,All,155,13,48,rising,0,[],f,2026-03-06 03:15:31.673371+00
+Tally Accounting,Nashik,All,155,-17,-47,declining,0,[],f,2026-03-06 03:15:31.497398+00
+Salesforce,Nashik,All,155,9,37,rising,4369,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.495933+00
+Data Engineering,Delhi,All,154,19,79,rising,3996,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.382948+00
+Print Media Design,Kochi,All,154,-17,-49,declining,0,[],f,2026-03-06 03:15:31.571176+00
+Cold Calling,Thiruvananthapuram,All,153,-22,-72,declining,0,[],f,2026-03-06 03:15:31.591227+00
+Tally Accounting,Visakhapatnam,All,152,-12,-42,declining,0,[],f,2026-03-06 03:15:31.579936+00
+Voice Support,Ranchi,All,152,-35,-112,declining,0,[],f,2026-03-06 03:15:31.642758+00
+Cloud Computing (AWS),Nashik,All,151,27,90,rising,2037,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.49201+00
+LLM Fine-Tuning,Chandigarh,All,151,36,114,rising,0,[],f,2026-03-06 03:15:31.554459+00
+Natural Language Processing,Visakhapatnam,All,151,38,126,rising,0,[],f,2026-03-06 03:15:31.576571+00
+Kubernetes/Docker,Thiruvananthapuram,All,150,23,71,rising,0,[],f,2026-03-06 03:15:31.587604+00
+Basic Excel,Indore,All,150,-11,-48,declining,0,[],f,2026-03-06 03:15:31.466568+00
+Copy Typing,Hubli,All,150,-33,-103,declining,0,[],f,2026-03-06 03:15:31.676301+00
+Print Media Design,Pune,All,150,-9,-41,declining,0,[],f,2026-03-06 03:15:31.438014+00
+Copy Typing,Varanasi,All,149,-28,-98,declining,0,[],f,2026-03-06 03:15:31.728604+00
+React/Next.js,Agra,All,149,18,63,rising,3421,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.713073+00
+Desktop Publishing,Nashik,All,149,-12,-54,declining,0,[],f,2026-03-06 03:15:31.499157+00
+Traditional SEO,Guwahati,All,149,-14,-39,declining,0,[],f,2026-03-06 03:15:31.708332+00
+AI Quality Review,Coimbatore,All,148,33,128,rising,0,[],f,2026-03-06 03:15:31.471142+00
+UI/UX Design,Hubli,All,148,17,55,rising,3766,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.673097+00
+Machine Learning,Madurai,All,148,35,120,rising,1630,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.606605+00
+AI Quality Review,Vadodara,All,148,35,130,rising,0,[],f,2026-03-06 03:15:31.521996+00
+Legacy COBOL,Chandigarh,All,148,-13,-33,declining,0,[],f,2026-03-06 03:15:31.561987+00
+DevOps/CI-CD,Raipur,All,147,25,75,rising,1650,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.691991+00
+Tally Accounting,Surat,All,147,-17,-47,declining,0,[],f,2026-03-06 03:15:31.538519+00
+Manual Bookkeeping,Mumbai,All,147,-13,-53,declining,0,[],f,2026-03-06 03:15:31.37622+00
+Dreamweaver,Nashik,All,146,-3,-18,declining,0,[],f,2026-03-06 03:15:31.501124+00
+Tableau/Power BI,Hyderabad,All,146,13,53,rising,2729,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.403622+00
+DevOps/CI-CD,Visakhapatnam,All,146,21,71,rising,1927,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.575543+00
+Product Management,Ranchi,All,146,14,49,rising,0,[],f,2026-03-06 03:15:31.641681+00
+Cold Calling,Kolkata,All,145,-25,-75,declining,0,[],f,2026-03-06 03:15:31.426882+00
+Voice Support,Raipur,All,145,-28,-105,declining,0,[],f,2026-03-06 03:15:31.695402+00
+Tableau/Power BI,Mumbai,All,145,21,61,rising,2833,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.372562+00
+Salesforce,Bangalore,All,145,16,44,rising,4251,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.394542+00
+Blockchain,Ahmedabad,All,145,13,38,rising,0,[],f,2026-03-06 03:15:31.445224+00
+Network Cabling,Mangaluru,All,145,-10,-27,declining,0,[],f,2026-03-06 03:15:31.668085+00
+Prompt Engineering,Vadodara,All,144,45,150,rising,0,[],f,2026-03-06 03:15:31.521746+00
+Voice Support,Chennai,All,144,-26,-103,declining,0,[],f,2026-03-06 03:15:31.415209+00
+Prompt Engineering,Patna,All,144,44,149,rising,0,[],f,2026-03-06 03:15:31.542554+00
+Print Media Design,Lucknow,All,143,-16,-48,declining,0,[],f,2026-03-06 03:15:31.509056+00
+Cold Calling,Vadodara,All,143,-16,-66,declining,0,[],f,2026-03-06 03:15:31.52834+00
+Cloud Computing (AWS),Varanasi,All,142,27,90,rising,3576,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.722182+00
+Blockchain,Dehradun,All,142,15,40,rising,0,[],f,2026-03-06 03:15:31.652976+00
+Dreamweaver,Siliguri,All,142,-11,-26,declining,0,[],f,2026-03-06 03:15:31.752845+00
+DevOps/CI-CD,Mysuru,All,142,23,73,rising,1080,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.596712+00
+Product Management,Raipur,All,142,19,54,rising,0,[],f,2026-03-06 03:15:31.694382+00
+LLM Fine-Tuning,Visakhapatnam,All,141,34,112,rising,0,[],f,2026-03-06 03:15:31.57504+00
+Dreamweaver,Agra,All,141,-6,-21,declining,0,[],f,2026-03-06 03:15:31.721143+00
+DevOps/CI-CD,Madurai,All,141,22,72,rising,2085,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.607387+00
+AI Quality Review,Bhopal,All,141,36,131,rising,0,[],f,2026-03-06 03:15:31.511953+00
+Kubernetes/Docker,Jaipur,All,141,18,66,rising,0,[],f,2026-03-06 03:15:31.484403+00
+UI/UX Design,Chandigarh,All,140,15,53,rising,1434,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.557118+00
+Natural Language Processing,Surat,All,140,38,126,rising,0,[],f,2026-03-06 03:15:31.535077+00
+Data Entry,Nashik,All,140,-27,-82,declining,0,[],f,2026-03-06 03:15:31.496664+00
+Desktop Publishing,Indore,All,139,-19,-61,declining,0,[],f,2026-03-06 03:15:31.468655+00
+Kubernetes/Docker,Varanasi,All,139,19,67,rising,0,[],f,2026-03-06 03:15:31.72494+00
+VB.NET,Chandigarh,All,139,-10,-37,declining,0,[],f,2026-03-06 03:15:31.562968+00
+Telemarketing,Dehradun,All,139,-22,-84,declining,0,[],f,2026-03-06 03:15:31.656455+00
+Copy Typing,Kolkata,All,139,-29,-99,declining,0,[],f,2026-03-06 03:15:31.42712+00
+Shorthand,Chandigarh,All,138,-33,-108,declining,0,[],f,2026-03-06 03:15:31.562721+00
+Copy Typing,Rajkot,All,138,-30,-100,declining,0,[],f,2026-03-06 03:15:31.623258+00
+PHP Development,Raipur,All,138,-16,-51,declining,0,[],f,2026-03-06 03:15:31.696675+00
+VB.NET,Bhopal,All,137,-11,-38,declining,0,[],f,2026-03-06 03:15:31.521246+00
+Computer Vision,Hubli,All,137,18,73,rising,0,[],f,2026-03-06 03:15:31.670586+00
+Salesforce,Chennai,All,137,8,36,rising,247,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.414727+00
+Legacy COBOL,Chennai,All,136,-8,-28,declining,0,[],f,2026-03-06 03:15:31.41881+00
+AI Quality Review,Pune,All,136,33,128,rising,0,[],f,2026-03-06 03:15:31.430553+00
+VB.NET,Mangaluru,All,136,-12,-39,declining,0,[],f,2026-03-06 03:15:31.668555+00
+Legacy COBOL,Indore,All,136,-7,-27,declining,0,[],f,2026-03-06 03:15:31.469416+00
+AI-assisted Content Moderation,Mumbai,All,136,84,284,rising,0,[],f,2026-03-06 03:15:31.371469+00
+Manual Bookkeeping,Jaipur,All,136,-14,-54,declining,0,[],f,2026-03-06 03:15:31.488284+00
+Python for Data,Tiruchirappalli,All,136,32,105,rising,306,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.68009+00
+VB.NET,Rajkot,All,136,-11,-38,declining,0,[],f,2026-03-06 03:15:31.626085+00
+Machine Learning,Coimbatore,All,136,32,117,rising,402,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.471864+00
+VB.NET,Guwahati,All,136,-9,-36,declining,0,[],f,2026-03-06 03:15:31.710665+00
+Voice Support,Hyderabad,All,135,-33,-110,declining,0,[],f,2026-03-06 03:15:31.405105+00
+Agile/Scrum,Ahmedabad,All,135,9,39,rising,4977,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.444734+00
+Machine Learning,Jodhpur,All,135,34,119,rising,3158,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.627821+00
+Computer Vision,Pune,All,135,20,75,rising,0,[],f,2026-03-06 03:15:31.431811+00
+AI Quality Review,Raipur,All,135,38,133,rising,0,[],f,2026-03-06 03:15:31.690451+00
+Voice Support,Nashik,All,134,-35,-112,declining,0,[],f,2026-03-06 03:15:31.496418+00
+Agile/Scrum,Jabalpur,All,134,15,45,rising,4552,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.736426+00
+Dreamweaver,Tiruchirappalli,All,134,-7,-22,declining,0,[],f,2026-03-06 03:15:31.689931+00
+Tableau/Power BI,Kolkata,All,133,18,58,rising,3408,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.423739+00
+Print Media Design,Guwahati,All,133,-12,-44,declining,0,[],f,2026-03-06 03:15:31.708599+00
+Tally Accounting,Thiruvananthapuram,All,133,-8,-38,declining,0,[],f,2026-03-06 03:15:31.590708+00
+Machine Learning,Vadodara,All,133,39,124,rising,4864,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.522752+00
+Legacy COBOL,Kochi,All,133,-7,-27,declining,0,[],f,2026-03-06 03:15:31.572168+00
+Agile/Scrum,Tiruchirappalli,All,133,7,37,rising,664,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.684101+00
+Tableau/Power BI,Hubli,All,132,15,55,rising,2152,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.672833+00
+Copy Typing,Hyderabad,All,132,-30,-100,declining,0,[],f,2026-03-06 03:15:31.406801+00
+Data Engineering,Mysuru,All,132,24,84,rising,4116,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.597946+00
+Print Media Design,Rajkot,All,131,-10,-42,declining,0,[],f,2026-03-06 03:15:31.624085+00
+Kubernetes/Docker,Pune,All,131,19,67,rising,0,[],f,2026-03-06 03:15:31.433755+00
+DevOps/CI-CD,Surat,All,131,22,72,rising,459,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.534063+00
+Data Engineering,Visakhapatnam,All,131,20,80,rising,3134,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.576838+00
+Shorthand,Jabalpur,All,130,-32,-107,declining,0,[],f,2026-03-06 03:15:31.741769+00
+Cold Calling,Mumbai,All,130,-24,-74,declining,0,[],f,2026-03-06 03:15:31.375697+00
+Shorthand,Siliguri,All,130,-32,-107,declining,0,[],f,2026-03-06 03:15:31.752329+00
+Filing/Clerical,Raipur,All,130,-22,-69,declining,0,[],f,2026-03-06 03:15:31.698829+00
+React/Next.js,Siliguri,All,129,21,66,rising,3920,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.744779+00
+PHP Development,Siliguri,All,129,-10,-45,declining,0,[],f,2026-03-06 03:15:31.749056+00
+Traditional SEO,Surat,All,128,-13,-38,declining,0,[],f,2026-03-06 03:15:31.539785+00
+Kubernetes/Docker,Delhi,All,127,19,67,rising,0,[],f,2026-03-06 03:15:31.383191+00
+Manual Testing,Dehradun,All,127,-14,-59,declining,0,[],f,2026-03-06 03:15:31.653854+00
+Filing/Clerical,Lucknow,All,127,-14,-61,declining,0,[],f,2026-03-06 03:15:31.50982+00
+Legacy COBOL,Jaipur,All,126,-4,-24,declining,0,[],f,2026-03-06 03:15:31.489776+00
+Basic Excel,Visakhapatnam,All,126,-15,-52,declining,0,[],f,2026-03-06 03:15:31.579699+00
+Tableau/Power BI,Chennai,All,126,13,53,rising,4224,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.413729+00
+AI-assisted Content Moderation,Mangaluru,All,125,78,278,rising,0,[],f,2026-03-06 03:15:31.661301+00
+Dreamweaver,Hyderabad,All,125,-10,-25,declining,0,[],f,2026-03-06 03:15:31.409961+00
+Prompt Engineering,Rajkot,All,125,46,151,rising,0,[],f,2026-03-06 03:15:31.61597+00
+Network Cabling,Rajkot,All,124,-4,-21,declining,0,[],f,2026-03-06 03:15:31.625564+00
+Basic Excel,Ahmedabad,All,124,-15,-52,declining,0,[],f,2026-03-06 03:15:31.446222+00
+Salesforce,Jaipur,All,123,16,44,rising,2067,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.485789+00
+PHP Development,Hyderabad,All,123,-15,-50,declining,0,[],f,2026-03-06 03:15:31.406335+00
+Print Media Design,Bangalore,All,123,-16,-48,declining,0,[],f,2026-03-06 03:15:31.397545+00
+Manual Testing,Siliguri,All,122,-22,-67,declining,0,[],f,2026-03-06 03:15:31.748291+00
+Manual Testing,Jabalpur,All,122,-19,-64,declining,0,[],f,2026-03-06 03:15:31.737782+00
+Manual Testing,Bangalore,All,121,-21,-66,declining,0,[],f,2026-03-06 03:15:31.395571+00
+Network Cabling,Vadodara,All,121,-11,-28,declining,0,[],f,2026-03-06 03:15:31.531136+00
+Shorthand,Vadodara,All,121,-28,-103,declining,0,[],f,2026-03-06 03:15:31.531421+00
+Data Engineering,Tiruchirappalli,All,121,25,85,rising,3329,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.68282+00
+Blockchain,Madurai,All,121,9,34,rising,0,[],f,2026-03-06 03:15:31.610656+00
+UI/UX Design,Pune,All,121,19,57,rising,120,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.434264+00
+Network Cabling,Nashik,All,120,-9,-26,declining,0,[],f,2026-03-06 03:15:31.500371+00
+Blockchain,Nashik,All,120,15,40,rising,0,[],f,2026-03-06 03:15:31.496175+00
+Tableau/Power BI,Bangalore,All,120,21,61,rising,2087,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.393537+00
+PHP Development,Rajkot,All,119,-18,-53,declining,0,[],f,2026-03-06 03:15:31.622747+00
+Natural Language Processing,Nashik,All,118,32,120,rising,0,[],f,2026-03-06 03:15:31.494208+00
+Manual Testing,Delhi,All,118,-19,-64,declining,0,[],f,2026-03-06 03:15:31.385408+00
+React/Next.js,Raipur,All,118,20,65,rising,4622,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.692306+00
+Tableau/Power BI,Indore,All,118,11,51,rising,3605,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.464241+00
+Machine Learning,Guwahati,All,118,37,122,rising,3008,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.701626+00
+DevOps/CI-CD,Rajkot,All,118,15,65,rising,2416,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.617976+00
+LLM Fine-Tuning,Mysuru,All,118,34,112,rising,0,[],f,2026-03-06 03:15:31.596229+00
+DevOps/CI-CD,Jodhpur,All,117,20,70,rising,637,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.628569+00
+LLM Fine-Tuning,Guwahati,All,117,27,105,rising,0,[],f,2026-03-06 03:15:31.701888+00
+Agile/Scrum,Agra,All,117,7,37,rising,863,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.715367+00
+Prompt Engineering,Hubli,All,117,42,147,rising,0,[],f,2026-03-06 03:15:31.669083+00
+Voice Support,Bangalore,All,117,-26,-103,declining,0,[],f,2026-03-06 03:15:31.395084+00
+Computer Vision,Nagpur,All,117,23,78,rising,0,[],f,2026-03-06 03:15:31.452075+00
+Legacy COBOL,Mysuru,All,117,-8,-28,declining,0,[],f,2026-03-06 03:15:31.604016+00
+Product Management,Surat,All,116,19,54,rising,0,[],f,2026-03-06 03:15:31.536383+00
+Telemarketing,Mysuru,All,116,-27,-89,declining,0,[],f,2026-03-06 03:15:31.603381+00
+Blockchain,Varanasi,All,115,7,32,rising,0,[],f,2026-03-06 03:15:31.726541+00
+Data Entry,Raipur,All,115,-27,-82,declining,0,[],f,2026-03-06 03:15:31.695642+00
+Dreamweaver,Surat,All,115,-9,-24,declining,0,[],f,2026-03-06 03:15:31.542303+00
+Blockchain,Jodhpur,All,115,8,33,rising,0,[],f,2026-03-06 03:15:31.631561+00
+Manual Testing,Indore,All,115,-22,-67,declining,0,[],f,2026-03-06 03:15:31.466318+00
+Natural Language Processing,Delhi,All,114,36,124,rising,0,[],f,2026-03-06 03:15:31.382711+00
+Tally Accounting,Chandigarh,All,113,-14,-44,declining,0,[],f,2026-03-06 03:15:31.559448+00
+Print Media Design,Dehradun,All,113,-14,-46,declining,0,[],f,2026-03-06 03:15:31.655925+00
+Network Cabling,Mysuru,All,113,-8,-25,declining,0,[],f,2026-03-06 03:15:31.604532+00
+Cloud Computing (AWS),Nagpur,All,113,22,85,rising,2463,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.451349+00
+AI-assisted Content Moderation,Jaipur,All,112,79,279,rising,0,[],f,2026-03-06 03:15:31.483651+00
+UI/UX Design,Nashik,All,111,14,52,rising,1199,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.495193+00
+Shorthand,Kochi,All,111,-32,-107,declining,0,[],f,2026-03-06 03:15:31.572926+00
+Kubernetes/Docker,Guwahati,All,111,20,68,rising,0,[],f,2026-03-06 03:15:31.703993+00
+Blockchain,Thiruvananthapuram,All,111,15,40,rising,0,[],f,2026-03-06 03:15:31.589124+00
+Dreamweaver,Varanasi,All,110,-5,-20,declining,0,[],f,2026-03-06 03:15:31.731611+00
+Basic Excel,Nashik,All,110,-12,-49,declining,0,[],f,2026-03-06 03:15:31.497138+00
+Blockchain,Mysuru,All,110,15,40,rising,0,[],f,2026-03-06 03:15:31.599932+00
+Cold Calling,Bangalore,All,109,-25,-75,declining,0,[],f,2026-03-06 03:15:31.396557+00
+LLM Fine-Tuning,Varanasi,All,108,32,110,rising,0,[],f,2026-03-06 03:15:31.7227+00
+Cloud Computing (AWS),Agra,All,108,30,93,rising,3965,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.711824+00
+DevOps/CI-CD,Chennai,All,108,25,75,rising,299,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.411999+00
+Desktop Publishing,Mangaluru,All,108,-12,-54,declining,0,[],f,2026-03-06 03:15:31.666816+00
+Legacy COBOL,Coimbatore,All,108,-6,-26,declining,0,[],f,2026-03-06 03:15:31.479551+00
+Desktop Publishing,Delhi,All,107,-17,-59,declining,0,[],f,2026-03-06 03:15:31.387608+00
+Hardware Troubleshooting,Ranchi,All,107,-4,-26,declining,0,[],f,2026-03-06 03:15:31.646697+00
+Traditional SEO,Tiruchirappalli,All,107,-5,-30,declining,0,[],f,2026-03-06 03:15:31.687229+00
+Kubernetes/Docker,Bangalore,All,107,20,68,rising,0,[],f,2026-03-06 03:15:31.393288+00
+Prompt Engineering,Delhi,All,106,41,146,rising,0,[],f,2026-03-06 03:15:31.37979+00
+Manual Bookkeeping,Madurai,All,106,-19,-59,declining,0,[],f,2026-03-06 03:15:31.612924+00
+Print Media Design,Chennai,All,106,-13,-45,declining,0,[],f,2026-03-06 03:15:31.417792+00
+Tally Accounting,Guwahati,All,105,-13,-43,declining,0,[],f,2026-03-06 03:15:31.706957+00
+Shorthand,Pune,All,105,-32,-107,declining,0,[],f,2026-03-06 03:15:31.4397+00
+Cold Calling,Surat,All,105,-15,-65,declining,0,[],f,2026-03-06 03:15:31.53899+00
+Kubernetes/Docker,Agra,All,104,16,64,rising,0,[],f,2026-03-06 03:15:31.714344+00
+UI/UX Design,Mumbai,All,103,12,50,rising,2627,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.372798+00
+PHP Development,Guwahati,All,103,-12,-47,declining,0,[],f,2026-03-06 03:15:31.707232+00
+Legacy COBOL,Bangalore,All,103,-5,-25,declining,0,[],f,2026-03-06 03:15:31.398552+00
+Desktop Publishing,Chennai,All,102,-12,-54,declining,0,[],f,2026-03-06 03:15:31.41804+00
+Hardware Troubleshooting,Pune,All,102,-12,-34,declining,0,[],f,2026-03-06 03:15:31.439223+00
+Traditional SEO,Siliguri,All,102,-8,-33,declining,0,[],f,2026-03-06 03:15:31.750103+00
+Prompt Engineering,Agra,All,102,46,151,rising,0,[],f,2026-03-06 03:15:31.71113+00
+Traditional SEO,Ranchi,All,102,-15,-40,declining,0,[],f,2026-03-06 03:15:31.645207+00
+Traditional SEO,Lucknow,All,101,-13,-38,declining,0,[],f,2026-03-06 03:15:31.508802+00
+Salesforce,Pune,All,101,10,38,rising,1428,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.435031+00
+Voice Support,Jabalpur,All,100,-28,-105,declining,0,[],f,2026-03-06 03:15:31.737221+00
+Hardware Troubleshooting,Hubli,All,100,-7,-29,declining,0,[],f,2026-03-06 03:15:31.678336+00
+Agile/Scrum,Varanasi,All,100,13,43,rising,3499,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.726021+00
+Kubernetes/Docker,Mumbai,All,100,18,66,rising,0,[],f,2026-03-06 03:15:31.372261+00
+Hardware Troubleshooting,Guwahati,All,99,-13,-35,declining,0,[],f,2026-03-06 03:15:31.70993+00
+Prompt Engineering,Visakhapatnam,All,99,47,152,rising,0,[],f,2026-03-06 03:15:31.573786+00
+Print Media Design,Hubli,All,99,-16,-48,declining,0,[],f,2026-03-06 03:15:31.677062+00
+Legacy COBOL,Mumbai,All,99,-10,-30,declining,0,[],f,2026-03-06 03:15:31.37817+00
+Data Entry,Delhi,All,98,-17,-72,declining,0,[],f,2026-03-06 03:15:31.385156+00
+Basic Excel,Jaipur,All,98,-12,-49,declining,0,[],f,2026-03-06 03:15:31.487051+00
+Machine Learning,Delhi,All,98,35,120,rising,552,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.380788+00
+AI-assisted Content Moderation,Tiruchirappalli,All,98,84,284,rising,0,[],f,2026-03-06 03:15:31.682304+00
+Data Engineering,Bhopal,All,98,29,89,rising,3171,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.514698+00
+Cloud Computing (AWS),Visakhapatnam,All,97,24,87,rising,1348,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.57453+00
+Python for Data,Indore,All,96,28,101,rising,1853,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.461172+00
+React/Next.js,Madurai,All,96,19,64,rising,4462,"[{""url"": ""https://nptel.ac.in"", ""name"": ""React/Next.js Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.607653+00
+Data Engineering,Nashik,All,95,28,88,rising,1300,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.494456+00
+Natural Language Processing,Raipur,All,95,33,121,rising,0,[],f,2026-03-06 03:15:31.693089+00
+LLM Fine-Tuning,Delhi,All,95,35,113,rising,0,[],f,2026-03-06 03:15:31.381029+00
+PHP Development,Chandigarh,All,94,-19,-54,declining,0,[],f,2026-03-06 03:15:31.559705+00
+Manual Testing,Chennai,All,94,-19,-64,declining,0,[],f,2026-03-06 03:15:31.415683+00
+VB.NET,Indore,All,93,-9,-36,declining,0,[],f,2026-03-06 03:15:31.470417+00
+Cloud Computing (AWS),Coimbatore,All,93,26,89,rising,1539,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.471624+00
+Natural Language Processing,Indore,All,92,39,127,rising,0,[],f,2026-03-06 03:15:31.463464+00
+Copy Typing,Jabalpur,All,92,-24,-94,declining,0,[],f,2026-03-06 03:15:31.73911+00
+Manual Testing,Patna,All,91,-17,-62,declining,0,[],f,2026-03-06 03:15:31.548428+00
+UI/UX Design,Chennai,All,91,12,50,rising,2369,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.413975+00
+DevOps/CI-CD,Thiruvananthapuram,All,91,18,68,rising,2963,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.586106+00
+Kubernetes/Docker,Bhopal,All,91,17,65,rising,0,[],f,2026-03-06 03:15:31.514959+00
+VB.NET,Dehradun,All,90,-11,-38,declining,0,[],f,2026-03-06 03:15:31.658081+00
+Cybersecurity,Mangaluru,All,90,30,98,rising,2328,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.661055+00
+Shorthand,Delhi,All,89,-31,-106,declining,0,[],f,2026-03-06 03:15:31.389085+00
+Natural Language Processing,Agra,All,89,36,124,rising,0,[],f,2026-03-06 03:15:31.71384+00
+Voice Support,Kolkata,All,89,-27,-104,declining,0,[],f,2026-03-06 03:15:31.425386+00
+Legacy COBOL,Surat,All,88,-5,-25,declining,0,[],f,2026-03-06 03:15:31.541039+00
+Agile/Scrum,Raipur,All,88,11,41,rising,4522,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.694636+00
+AI-assisted Content Moderation,Mysuru,All,88,82,282,rising,0,[],f,2026-03-06 03:15:31.597445+00
+AI Quality Review,Mangaluru,All,87,40,135,rising,0,[],f,2026-03-06 03:15:31.658853+00
+Cybersecurity,Kolkata,All,87,26,94,rising,3084,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.422527+00
+Hardware Troubleshooting,Coimbatore,All,87,-10,-32,declining,0,[],f,2026-03-06 03:15:31.479795+00
+Computer Vision,Visakhapatnam,All,87,21,76,rising,0,[],f,2026-03-06 03:15:31.575296+00
+VB.NET,Mysuru,All,87,-8,-35,declining,0,[],f,2026-03-06 03:15:31.605056+00
+Salesforce,Jabalpur,All,87,15,43,rising,1539,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.736675+00
+Manual Testing,Chandigarh,All,87,-23,-68,declining,0,[],f,2026-03-06 03:15:31.558926+00
+UI/UX Design,Siliguri,All,86,11,49,rising,390,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.746505+00
+Python for Data,Varanasi,All,86,25,98,rising,388,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.721915+00
+Data Entry,Ahmedabad,All,86,-18,-73,declining,0,[],f,2026-03-06 03:15:31.445722+00
+Voice Support,Mysuru,All,85,-30,-107,declining,0,[],f,2026-03-06 03:15:31.600195+00
+Dreamweaver,Chennai,All,85,-4,-19,declining,0,[],f,2026-03-06 03:15:31.420066+00
+Legacy COBOL,Lucknow,All,84,-9,-29,declining,0,[],f,2026-03-06 03:15:31.510059+00
+Legacy COBOL,Varanasi,All,84,-6,-26,declining,0,[],f,2026-03-06 03:15:31.730381+00
+UI/UX Design,Ranchi,All,84,17,55,rising,3845,"[{""url"": ""https://nptel.ac.in"", ""name"": ""UI/UX Design Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.641438+00
+Traditional SEO,Ahmedabad,All,83,-14,-39,declining,0,[],f,2026-03-06 03:15:31.44773+00
+Cybersecurity,Delhi,All,83,26,94,rising,1403,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.38204+00
+Desktop Publishing,Agra,All,83,-16,-58,declining,0,[],f,2026-03-06 03:15:31.71915+00
+Prompt Engineering,Nagpur,All,82,47,152,rising,0,[],f,2026-03-06 03:15:31.450507+00
+Cloud Computing (AWS),Jabalpur,All,82,24,87,rising,208,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.732647+00
+Manual Bookkeeping,Hyderabad,All,81,-20,-60,declining,0,[],f,2026-03-06 03:15:31.407038+00
+Desktop Publishing,Siliguri,All,81,-21,-63,declining,0,[],f,2026-03-06 03:15:31.750608+00
+Python for Data,Patna,All,81,34,107,rising,3353,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.543088+00
+PHP Development,Ranchi,All,81,-12,-47,declining,0,[],f,2026-03-06 03:15:31.644074+00
+Tableau/Power BI,Nagpur,All,80,13,53,rising,3039,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.454084+00
+DevOps/CI-CD,Lucknow,All,79,22,72,rising,3354,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.503347+00
+Desktop Publishing,Ranchi,All,79,-17,-59,declining,0,[],f,2026-03-06 03:15:31.64569+00
+Filing/Clerical,Nashik,All,79,-23,-70,declining,0,[],f,2026-03-06 03:15:31.499647+00
+Basic Excel,Thiruvananthapuram,All,79,-17,-54,declining,0,[],f,2026-03-06 03:15:31.590459+00
+Network Cabling,Jodhpur,All,78,-7,-24,declining,0,[],f,2026-03-06 03:15:31.63644+00
+Computer Vision,Thiruvananthapuram,All,78,24,79,rising,0,[],f,2026-03-06 03:15:31.58583+00
+Filing/Clerical,Hyderabad,All,78,-21,-68,declining,0,[],f,2026-03-06 03:15:31.408385+00
+Filing/Clerical,Bangalore,All,77,-18,-65,declining,0,[],f,2026-03-06 03:15:31.398309+00
+Basic Excel,Varanasi,All,77,-14,-51,declining,0,[],f,2026-03-06 03:15:31.727584+00
+AI-assisted Content Moderation,Hubli,All,77,85,285,rising,0,[],f,2026-03-06 03:15:31.671768+00
+Agile/Scrum,Bhopal,All,76,17,47,rising,1754,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.515928+00
+Salesforce,Kolkata,All,76,15,43,rising,2962,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Salesforce Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.424891+00
+Natural Language Processing,Bangalore,All,76,36,124,rising,0,[],f,2026-03-06 03:15:31.392761+00
+Machine Learning,Jabalpur,All,76,36,121,rising,136,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.732927+00
+VB.NET,Nashik,All,75,-11,-38,declining,0,[],f,2026-03-06 03:15:31.500872+00
+Cold Calling,Nashik,All,75,-15,-65,declining,0,[],f,2026-03-06 03:15:31.497895+00
+VB.NET,Coimbatore,All,74,-12,-39,declining,0,[],f,2026-03-06 03:15:31.480589+00
+Blockchain,Kochi,All,74,15,40,rising,0,[],f,2026-03-06 03:15:31.568372+00
+Kubernetes/Docker,Hyderabad,All,74,19,67,rising,0,[],f,2026-03-06 03:15:31.403382+00
+Computer Vision,Vadodara,All,73,23,78,rising,0,[],f,2026-03-06 03:15:31.523235+00
+Data Engineering,Hubli,All,73,22,82,rising,1761,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.672291+00
+AI Quality Review,Varanasi,All,72,41,136,rising,0,[],f,2026-03-06 03:15:31.721666+00
+Filing/Clerical,Delhi,All,72,-14,-61,declining,0,[],f,2026-03-06 03:15:31.388106+00
+Legacy COBOL,Jodhpur,All,72,-7,-27,declining,0,[],f,2026-03-06 03:15:31.635739+00
+Tableau/Power BI,Siliguri,All,72,19,59,rising,4848,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.746266+00
+Kubernetes/Docker,Nashik,All,72,15,63,rising,0,[],f,2026-03-06 03:15:31.494707+00
+Tableau/Power BI,Pune,All,71,21,61,rising,2194,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.433999+00
+Data Entry,Hubli,All,71,-18,-73,declining,0,[],f,2026-03-06 03:15:31.674749+00
+Python for Data,Raipur,All,70,34,107,rising,797,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Python for Data Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.690719+00
+Basic Excel,Raipur,All,70,-10,-47,declining,0,[],f,2026-03-06 03:15:31.696171+00
+Data Engineering,Indore,All,70,28,88,rising,340,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.463732+00
+Copy Typing,Dehradun,All,70,-26,-96,declining,0,[],f,2026-03-06 03:15:31.655133+00
+Telemarketing,Tiruchirappalli,All,69,-30,-92,declining,0,[],f,2026-03-06 03:15:31.687987+00
+Prompt Engineering,Kolkata,All,69,38,143,rising,0,[],f,2026-03-06 03:15:31.420307+00
+DevOps/CI-CD,Ahmedabad,All,68,18,68,rising,2156,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.442262+00
+Agile/Scrum,Mangaluru,All,67,15,45,rising,4497,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.663205+00
+Cloud Computing (AWS),Siliguri,All,67,29,92,rising,4571,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.743516+00
+Kubernetes/Docker,Siliguri,All,67,23,71,rising,0,[],f,2026-03-06 03:15:31.746022+00
+Data Engineering,Jabalpur,All,66,25,85,rising,2398,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.735106+00
+Desktop Publishing,Lucknow,All,65,-15,-57,declining,0,[],f,2026-03-06 03:15:31.509309+00
+Telemarketing,Lucknow,All,65,-22,-84,declining,0,[],f,2026-03-06 03:15:31.509564+00
+Dreamweaver,Thiruvananthapuram,All,65,-3,-18,declining,0,[],f,2026-03-06 03:15:31.594688+00
+Tally Accounting,Kolkata,All,64,-13,-43,declining,0,[],f,2026-03-06 03:15:31.426392+00
+Cybersecurity,Hyderabad,All,64,23,91,rising,971,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.402413+00
+Natural Language Processing,Mysuru,All,64,39,127,rising,0,[],f,2026-03-06 03:15:31.597691+00
+Prompt Engineering,Kochi,All,63,46,151,rising,0,[],f,2026-03-06 03:15:31.563453+00
+VB.NET,Ahmedabad,All,63,-14,-41,declining,0,[],f,2026-03-06 03:15:31.449995+00
+Network Cabling,Surat,All,63,-6,-23,declining,0,[],f,2026-03-06 03:15:31.541541+00
+Manual Bookkeeping,Rajkot,All,63,-15,-55,declining,0,[],f,2026-03-06 03:15:31.623524+00
+Cybersecurity,Chandigarh,All,62,26,94,rising,3380,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.555508+00
+Blockchain,Delhi,All,62,14,39,rising,0,[],f,2026-03-06 03:15:31.384666+00
+Voice Support,Tiruchirappalli,All,62,-26,-103,declining,0,[],f,2026-03-06 03:15:31.684876+00
+Voice Support,Thiruvananthapuram,All,62,-29,-106,declining,0,[],f,2026-03-06 03:15:31.589384+00
+Hardware Troubleshooting,Tiruchirappalli,All,62,-7,-29,declining,0,[],f,2026-03-06 03:15:31.688743+00
+AI-assisted Content Moderation,Vadodara,All,61,84,284,rising,0,[],f,2026-03-06 03:15:31.524218+00
+LLM Fine-Tuning,Hubli,All,61,36,114,rising,0,[],f,2026-03-06 03:15:31.670331+00
+Natural Language Processing,Hubli,All,61,33,121,rising,0,[],f,2026-03-06 03:15:31.672021+00
+Tally Accounting,Madurai,All,61,-12,-42,declining,0,[],f,2026-03-06 03:15:31.611927+00
+Agile/Scrum,Coimbatore,All,60,8,38,rising,4868,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.47507+00
+Network Cabling,Nagpur,All,60,-8,-25,declining,0,[],f,2026-03-06 03:15:31.459638+00
+Network Cabling,Guwahati,All,60,-8,-25,declining,0,[],f,2026-03-06 03:15:31.710174+00
+Traditional SEO,Patna,All,59,-8,-33,declining,0,[],f,2026-03-06 03:15:31.550419+00
+Tableau/Power BI,Madurai,All,59,21,61,rising,100,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Tableau/Power BI Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.609357+00
+Filing/Clerical,Patna,All,59,-22,-69,declining,0,[],f,2026-03-06 03:15:31.551426+00
+Data Entry,Visakhapatnam,All,59,-17,-72,declining,0,[],f,2026-03-06 03:15:31.579195+00
+Product Management,Agra,All,58,12,47,rising,0,[],f,2026-03-06 03:15:31.715117+00
+Data Engineering,Dehradun,All,57,20,80,rising,1672,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Data Engineering Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.651169+00
+Desktop Publishing,Varanasi,All,56,-12,-54,declining,0,[],f,2026-03-06 03:15:31.72963+00
+VB.NET,Jaipur,All,56,-11,-38,declining,0,[],f,2026-03-06 03:15:31.490774+00
+Dreamweaver,Mysuru,All,55,-5,-20,declining,0,[],f,2026-03-06 03:15:31.605309+00
+Natural Language Processing,Dehradun,All,55,38,126,rising,0,[],f,2026-03-06 03:15:31.650912+00
+Legacy COBOL,Nashik,All,54,-13,-33,declining,0,[],f,2026-03-06 03:15:31.499872+00
+LLM Fine-Tuning,Rajkot,All,54,32,110,rising,0,[],f,2026-03-06 03:15:31.617304+00
+Computer Vision,Rajkot,All,54,21,76,rising,0,[],f,2026-03-06 03:15:31.617699+00
+Manual Testing,Vadodara,All,54,-16,-61,declining,0,[],f,2026-03-06 03:15:31.527334+00
+Cybersecurity,Bangalore,All,54,32,100,rising,2184,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cybersecurity Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.392267+00
+Machine Learning,Kolkata,All,53,37,122,rising,1657,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Machine Learning Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.421277+00
+Data Entry,Jabalpur,All,53,-20,-75,declining,0,[],f,2026-03-06 03:15:31.737509+00
+Filing/Clerical,Visakhapatnam,All,53,-14,-61,declining,0,[],f,2026-03-06 03:15:31.582346+00
+DevOps/CI-CD,Kolkata,All,53,24,74,rising,2888,"[{""url"": ""https://nptel.ac.in"", ""name"": ""DevOps/CI-CD Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.422015+00
+Tally Accounting,Jaipur,All,53,-17,-47,declining,0,[],f,2026-03-06 03:15:31.487297+00
+Kubernetes/Docker,Mysuru,All,52,23,71,rising,0,[],f,2026-03-06 03:15:31.598184+00
+Blockchain,Guwahati,All,51,11,36,rising,0,[],f,2026-03-06 03:15:31.705543+00
+Kubernetes/Docker,Tiruchirappalli,All,51,16,64,rising,0,[],f,2026-03-06 03:15:31.683105+00
+Agile/Scrum,Hyderabad,All,51,10,40,rising,3332,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Agile/Scrum Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.404361+00
+Tally Accounting,Coimbatore,All,51,-16,-46,declining,0,[],f,2026-03-06 03:15:31.476966+00
+Dreamweaver,Raipur,All,50,-5,-20,declining,0,[],f,2026-03-06 03:15:31.700346+00
+Cloud Computing (AWS),Vadodara,All,50,30,93,rising,3530,"[{""url"": ""https://nptel.ac.in"", ""name"": ""Cloud Computing (AWS) Basics"", ""provider"": ""NPTEL""}]",t,2026-03-06 03:15:31.522498+00
+Shorthand,Bhopal,All,50,-26,-101,declining,0,[],f,2026-03-06 03:15:31.520991+00
